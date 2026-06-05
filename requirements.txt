@@ -1,0 +1,8 @@
+# CapCut auto-video tool dependencies
+pycapcut>=0.0.3
+faster-whisper>=1.0.3
+sentence-transformers>=3.0.0
+scipy>=1.11.0
+pillow>=10.0.0
+numpy>=1.26.0
+srt>=3.5.3
