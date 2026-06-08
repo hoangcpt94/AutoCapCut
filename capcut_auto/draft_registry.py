@@ -76,13 +76,65 @@ def register_draft(draft_root: str, draft_name: str) -> str:
     if not os.path.isdir(draft_dir):
         raise FileNotFoundError(f"Không thấy thư mục draft: {draft_dir}")
 
-    draft_id = str(uuid.uuid4()).upper()
+    # Tái dùng draft_id cũ nếu có (tránh lệch id giữa meta và index khi chạy lại).
+    draft_id = _existing_draft_id(draft_dir) or str(uuid.uuid4()).upper()
     now = _now_us()
     duration = _read_duration_us(draft_dir)
+
+    # Vá new_version của draft cho khớp CapCut đang cài (nếu dò được).
+    capcut_version = _detect_capcut_version(draft_root)
+    _patch_draft_version(draft_dir, capcut_version)
 
     _update_draft_meta(draft_dir, draft_root, draft_name, draft_id, now, duration)
     _update_root_index(draft_root, draft_dir, draft_name, draft_id, now, duration)
     return draft_id
+
+
+def _detect_capcut_version(draft_root: str) -> Optional[str]:
+    """Dò version CapCut từ index hiện có (draft_new_version cao nhất trong store).
+
+    CapCut bản mới từ chối/lỗi khi mở draft có new_version thấp hơn nhiều so với
+    app. Ta đọc version mà chính CapCut đã ghi để vá lại draft cho khớp.
+    """
+    root_meta = _read_json(os.path.join(draft_root, ROOT_META_FILE))
+    if not root_meta:
+        return None
+    versions = []
+    for e in root_meta.get("all_draft_store") or []:
+        v = e.get("draft_new_version")
+        if isinstance(v, str) and v:
+            versions.append(v)
+
+    def _key(s: str):
+        parts = []
+        for p in s.split("."):
+            parts.append(int(p) if p.isdigit() else 0)
+        return parts
+
+    return max(versions, key=_key) if versions else None
+
+
+def _patch_draft_version(draft_dir: str, version: Optional[str]) -> None:
+    """Vá new_version của draft_content.json cho khớp CapCut (nếu dò được version)."""
+    if not version:
+        return
+    content_path = os.path.join(draft_dir, "draft_content.json")
+    content = _read_json(content_path)
+    if not content:
+        return
+    content["new_version"] = version
+    # last_version (nếu có) cũng nên đồng bộ để CapCut không coi là draft cũ.
+    if "last_version" in content:
+        content["last_version"] = version
+    _write_json(content_path, content)
+
+
+def _existing_draft_id(draft_dir: str) -> Optional[str]:
+    """Lấy draft_id sẵn có trong draft_meta_info.json (để tái dùng, tránh lệch id)."""
+    meta = _read_json(os.path.join(draft_dir, DRAFT_META_FILE))
+    if meta and isinstance(meta.get("draft_id"), str) and len(meta["draft_id"]) >= 32:
+        return meta["draft_id"]
+    return None
 
 
 def _update_draft_meta(draft_dir: str, draft_root: str, draft_name: str,
@@ -147,12 +199,30 @@ def _update_root_index(draft_root: str, draft_dir: str, draft_name: str,
     store: List[Dict[str, Any]] = root_meta.get("all_draft_store") or []
     target_fold = _to_capcut_path(draft_dir)
 
-    # Bỏ entry cũ trùng tên hoặc trùng đường dẫn (tránh nhân bản khi chạy lại).
+    # Tìm entry cũ (trùng tên/đường dẫn) để GIỮ các field CapCut đã thêm
+    # (draft_new_version, draft_timeline_materials_size...), chỉ cập nhật field của ta.
+    old_entry: Dict[str, Any] = {}
+    for e in store:
+        if e.get("draft_fold_path") == target_fold or e.get("draft_name") == draft_name:
+            old_entry = dict(e)
+            break
+
     store = [
         e for e in store
         if e.get("draft_fold_path") != target_fold and e.get("draft_name") != draft_name
     ]
-    store.insert(0, _make_store_entry(draft_dir, draft_name, draft_id, now, duration))
+
+    new_entry = _make_store_entry(draft_dir, draft_name, draft_id, now, duration)
+    if old_entry:
+        # Giữ metadata CapCut tự sinh, ghi đè bằng giá trị mới của ta.
+        merged = old_entry
+        merged.update(new_entry)
+        # Giữ thời điểm tạo gốc nếu có.
+        if old_entry.get("tm_draft_create"):
+            merged["tm_draft_create"] = old_entry["tm_draft_create"]
+        new_entry = merged
+
+    store.insert(0, new_entry)
 
     root_meta["all_draft_store"] = store
     if isinstance(root_meta.get("draft_ids"), int):

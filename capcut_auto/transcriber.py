@@ -1,7 +1,7 @@
-"""Tách timing từng đoạn voiceover bằng faster-whisper.
+"""Tách timing voiceover bằng faster-whisper (word-level).
 
-Whisper hỗ trợ đa ngôn ngữ và xuất ra timestamp cho từng đoạn (segment).
-Mỗi `Segment` gồm: text, start, end (đơn vị giây).
+Chế độ neo cần mốc thời gian TỪNG TỪ để căn từng cụm `anchor_phrase` vào đúng
+vị trí trên timeline. Mỗi `Word` gồm: text, start, end (đơn vị giây).
 """
 
 from __future__ import annotations
@@ -13,8 +13,21 @@ from typing import List, Optional
 
 
 @dataclass
+class Word:
+    """Một từ trong voiceover với mốc thời gian (giây)."""
+
+    text: str
+    start: float
+    end: float
+
+
+@dataclass
 class Segment:
-    """Một đoạn voiceover với mốc thời gian (giây)."""
+    """Một đoạn trên timeline (text phụ đề + mốc thời gian giây).
+
+    Trong chế độ neo, mỗi segment ứng với một ảnh: text = anchor_phrase,
+    [start, end) = khoảng ảnh hiển thị.
+    """
 
     text: str
     start: float
@@ -25,20 +38,20 @@ class Segment:
         return max(0.0, self.end - self.start)
 
 
-def _cache_path(cache_dir: str, audio_path: str, model: str) -> str:
+def _words_cache_path(cache_dir: str, audio_path: str, model: str) -> str:
     base = os.path.splitext(os.path.basename(audio_path))[0]
-    return os.path.join(cache_dir, f"transcript_{base}_{model}.json")
+    return os.path.join(cache_dir, f"words_{base}_{model}.json")
 
 
-def transcribe(
+def transcribe_words(
     audio_path: str,
     *,
     model_size: str = "base",
     language: Optional[str] = None,
     cache_dir: Optional[str] = None,
     model_cache_dir: Optional[str] = None,
-) -> List[Segment]:
-    """Nhận diện voiceover và trả về danh sách Segment theo thời gian.
+) -> List[Word]:
+    """Nhận diện voiceover và trả về danh sách Word (từng từ kèm mốc thời gian).
 
     Args:
         audio_path: đường dẫn file audio.
@@ -49,11 +62,11 @@ def transcribe(
     """
     if cache_dir:
         os.makedirs(cache_dir, exist_ok=True)
-        cache_file = _cache_path(cache_dir, audio_path, model_size)
+        cache_file = _words_cache_path(cache_dir, audio_path, model_size)
         if os.path.isfile(cache_file):
             with open(cache_file, "r", encoding="utf-8") as f:
                 data = json.load(f)
-            return [Segment(**d) for d in data]
+            return [Word(**d) for d in data]
 
     try:
         from faster_whisper import WhisperModel
@@ -62,38 +75,30 @@ def transcribe(
             "Thiếu faster-whisper. Cài bằng: pip install faster-whisper"
         ) from exc
 
-    # CPU mặc định int8 cho nhẹ; nếu có GPU NVIDIA đổi device='cuda'
+    # CPU mặc định int8 cho nhẹ; nếu có GPU NVIDIA đổi device='cuda'.
     model = WhisperModel(
         model_size, device="cpu", compute_type="int8", download_root=model_cache_dir
     )
-    seg_iter, info = model.transcribe(
+    seg_iter, _info = model.transcribe(
         audio_path,
         language=language,
         vad_filter=True,
-        word_timestamps=False,
+        word_timestamps=True,
     )
 
-    segments: List[Segment] = []
+    words: List[Word] = []
     for s in seg_iter:
-        text = s.text.strip()
-        if not text:
-            continue
-        segments.append(Segment(text=text, start=float(s.start), end=float(s.end)))
+        for w in (s.words or []):
+            text = w.word.strip()
+            if not text:
+                continue
+            words.append(Word(text=text, start=float(w.start), end=float(w.end)))
 
-    if not segments:
-        raise RuntimeError("Whisper không nhận diện được đoạn nào từ voiceover.")
+    if not words:
+        raise RuntimeError("Whisper không lấy được word-timestamp nào từ voiceover.")
 
     if cache_dir:
         with open(cache_file, "w", encoding="utf-8") as f:
-            json.dump([asdict(s) for s in segments], f, ensure_ascii=False, indent=2)
+            json.dump([asdict(w) for w in words], f, ensure_ascii=False, indent=2)
 
-    return segments
-
-
-def detected_language(audio_path: str, model_size: str = "base") -> str:
-    """Trả về mã ngôn ngữ Whisper nhận diện được (tiện cho log)."""
-    from faster_whisper import WhisperModel
-
-    model = WhisperModel(model_size, device="cpu", compute_type="int8")
-    _, info = model.transcribe(audio_path, language=None)
-    return info.language
+    return words

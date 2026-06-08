@@ -1,32 +1,50 @@
-# CapCut Auto — Ghép ảnh khớp voiceover
+# CapCut Auto — Ghép ảnh theo anchor khớp voiceover
 
-Tool tự động ghép ảnh trong một thư mục với từng đoạn voiceover theo **ngữ nghĩa**,
-rồi sinh ra một **draft CapCut** (mở lên chỉnh sửa/export tiếp). Hỗ trợ voiceover
-**đa ngôn ngữ** (Anh, Việt, hoặc bất kỳ).
+Tool tự động đặt ảnh vào đúng thời điểm trên timeline theo lời thoại, rồi sinh ra
+một **draft CapCut** để chỉnh sửa/export tiếp. Hỗ trợ voiceover **đa ngôn ngữ**.
 
-## Cách hoạt động
+Bạn cung cấp sẵn mapping `ảnh ↔ cụm từ` (`anchor_phrase`). Tool dùng Whisper lấy
+mốc thời gian **từng từ**, căn cụm từ đó vào đúng thời điểm nó được đọc, rồi đặt
+ảnh tương ứng. Mỗi ảnh hiển thị từ lúc anchor của nó bắt đầu, kéo dài tới khi
+anchor kế tiếp bắt đầu (ảnh cuối kéo tới hết voiceover).
 
 ```
-voiceover.mp3 ─┐
-               ├─► [1] Whisper: tách timing từng đoạn
-script.txt   ──┘         │
-                         ▼
-folder ảnh ──► [2] CLIP đa ngôn ngữ: phân tích nội dung ảnh
-                         │
-                         ▼
-              [3] Ghép ảnh ↔ đoạn theo ngữ nghĩa (cosine similarity)
+voiceover ──► [1] Whisper: word-timestamps (mốc từng từ)
+mapping   ──► [2] forced-align từng anchor_phrase vào timeline
+ảnh       ──► [3] đặt ảnh theo vị trí anchor, kéo dài tới anchor kế tiếp
                          │
                          ▼
               [4] pycapcut: sinh draft (ảnh + audio + phụ đề)
 ```
 
-1. **Whisper** (`faster-whisper`): nhận diện voiceover, lấy mốc thời gian từng đoạn.
-2. **Script** (tùy chọn): nếu có file script, dùng làm nội dung phụ đề chuẩn,
-   timing vẫn lấy từ Whisper.
-3. **CLIP đa ngôn ngữ** (`sentence-transformers`): mã hóa ảnh và text vào cùng
-   không gian vector, ghép ảnh khớp nhất cho từng đoạn. Khi đủ ảnh, dùng thuật
-   toán gán tối ưu toàn cục (Hungarian) để không lặp ảnh.
-4. **pycapcut**: dựng `draft_content.json` với track ảnh, track voiceover, track phụ đề.
+## Cấu trúc input một tập
+
+```
+episode_01/
+├── mapping.jsonl     # cặp ảnh <-> anchor_phrase
+├── voiceover.wav     # file voiceover (mp3/wav/m4a/...)
+└── images/           # thư mục ảnh (hoặc để ảnh thẳng trong tập)
+    ├── 01.png
+    ├── 02.png
+    └── ...
+```
+
+File `mapping.jsonl` — mỗi dòng một object (cũng chấp nhận JSON array hoặc nhiều
+object dính liền nhau):
+
+```json
+{"image_file":"1.png","anchor_phrase":"What if you fell into a black hole?"}
+{"image_file":"2.png","anchor_phrase":"you'd be crushed to a dot in a heartbeat"}
+{"image_file":"3.png","anchor_phrase":"Screaming. Gone."}
+{"image_file":"4.png","anchor_phrase":"It's terrifying. It's dramatic."}
+{"image_file":"5.png","anchor_phrase":"And it's wrong."}
+```
+
+- `anchor_phrase` chỉ cần là một **cụm từ thật** xuất hiện trong lời thoại — không
+  cần trùng 100%, tool fuzzy-match nên chịu được sai khác chính tả/nhận diện.
+- Các anchor phải theo đúng **thứ tự thời gian** chúng được đọc.
+- `image_file` khớp theo **số ở đầu tên file**: mapping ghi `01.png` vẫn khớp đúng
+  với ảnh thật tên dài như `01_black_hole_intro.png` (đuôi file không cần trùng).
 
 ## Cài đặt
 
@@ -34,38 +52,38 @@ folder ảnh ──► [2] CLIP đa ngôn ngữ: phân tích nội dung ảnh
 .venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
 
-Lần chạy đầu sẽ tự tải model Whisper và CLIP về máy (vài trăm MB).
+Lần chạy đầu sẽ tự tải model Whisper về máy (vài chục–vài trăm MB tùy model).
 
 ## Sử dụng
 
 Tạo draft thẳng vào thư mục CapCut (tự dò vị trí):
 
 ```powershell
-.venv\Scripts\python.exe -m capcut_auto `
-  --images "D:\project\images" `
-  --voiceover "D:\project\vo.mp3" `
-  --script "D:\project\script.txt" `
-  --draft-name "video_moi"
+.venv\Scripts\python.exe -m capcut_auto --input-dir "episodes\episode_01" --draft-name "video_moi"
 ```
 
-Hoặc xuất ra thư mục riêng để kiểm tra trước (không đụng CapCut):
+Hoặc xuất ra thư mục riêng để xem trước (không đụng CapCut):
 
 ```powershell
-.venv\Scripts\python.exe -m capcut_auto `
-  --images "D:\project\images" `
-  --voiceover "D:\project\vo.mp3" `
-  --output-dir ".\out_draft"
+.venv\Scripts\python.exe -m capcut_auto --input-dir "episodes\episode_01" --output-dir ".\out_draft"
 ```
 
 Sau khi chạy xong, mở CapCut → draft mới sẽ xuất hiện trong danh sách dự án.
 
-## Tham số chính
+Tạo nhanh khung một tập mới:
+
+```powershell
+.venv\Scripts\python.exe new_episode.py "episodes\episode_06_xxx" --slots 18
+```
+
+Quy trình sản xuất chi tiết: xem `episodes\README.md`.
+
+## Tham số
 
 | Tham số | Mặc định | Ý nghĩa |
 |---|---|---|
-| `--images` | (bắt buộc) | Thư mục chứa ảnh |
-| `--voiceover` | (bắt buộc) | File audio voiceover |
-| `--script` | none | File script .txt (tùy chọn) |
+| `--input-dir` | (bắt buộc) | Thư mục một tập (mapping + voiceover + ảnh) |
+| `--anchor-min-score` | 0.45 | Ngưỡng fuzzy-match coi như tìm thấy anchor (0..1) |
 | `--draft-name` | auto_capcut_project | Tên draft CapCut |
 | `--draft-root` | tự dò | Thư mục draft CapCut |
 | `--output-dir` | none | Ghi ra đây thay vì thư mục CapCut |
@@ -73,9 +91,8 @@ Sau khi chạy xong, mở CapCut → draft mới sẽ xuất hiện trong danh s
 | `--fps` | 30 | Khung hình/giây |
 | `--whisper-model` | base | tiny/base/small/medium/large-v3 |
 | `--language` | tự nhận diện | Mã ngôn ngữ vd `en`, `vi` |
-| `--clip-model` | clip-ViT-B-32-multilingual-v1 | Model ghép ảnh-text |
+| `--model-cache-dir` | mặc định HF | Thư mục lưu model tải về |
 | `--no-subtitles` | tắt | Bỏ phụ đề |
-| `--allow-image-reuse` | tắt | Cho phép dùng lại ảnh |
 | `--transition` | none | Transition giữa ảnh, vd `dissolve` |
 
 Kiểm tra thư mục draft CapCut dò được:
@@ -86,14 +103,15 @@ Kiểm tra thư mục draft CapCut dò được:
 
 ## Giới hạn
 
-- CLIP ghép tốt với nội dung **cụ thể** (biển, người, vật...), kém với nội dung
-  trừu tượng/ẩn dụ. Tool sinh draft để bạn tinh chỉnh tay, không phải bản cuối 100%.
+- Độ chính xác phụ thuộc word-timestamp của Whisper. Anchor quá ngắn và lặp lại
+  nhiều nơi có thể neo nhầm; chọn cụm từ đặc trưng, dài 3–8 từ.
+- Anchor không tìm thấy trong lời thoại sẽ được nội suy thời gian và in cảnh báo.
 - CapCut không có API chính thức; format draft phụ thuộc phiên bản CapCut.
 - Lần chạy đầu chậm do tải model; các lần sau dùng cache trong `.capcut_auto_cache`.
 
 ## Kiểm thử
 
-Test phần không cần model nặng (logic + dựng draft):
+Test phần logic không cần model nặng (parse mapping + forced-align + dựng segment):
 
 ```powershell
 .venv\Scripts\python.exe tests\test_offline.py
