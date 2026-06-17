@@ -69,11 +69,13 @@ def build_draft(
         AudioSegment,
         TextSegment,
         TextStyle,
+        TextBorder,
         Timerange,
         TrackType,
         ClipSettings,
         TransitionType,
     )
+    from pycapcut.metadata.font_meta import FontType
 
     # Quyết định nơi lưu: thư mục CapCut (qua DraftFolder) hay output_dir (test).
     use_output_dir = config.output_dir is not None
@@ -146,8 +148,16 @@ def build_draft(
     # --- Track phụ đề (tùy chọn) ---
     if config.add_subtitles:
         script.add_track(TrackType.text, "subtitles", relative_index=999)
-        style = TextStyle(size=6.0, align=1, auto_wrapping=True)
-        sub_clip = ClipSettings(transform_y=-0.78)
+        style = TextStyle(
+            size=7.0,
+            bold=True,
+            color=(1.0, 0.92, 0.38),
+            align=1,
+            auto_wrapping=True,
+            max_line_width=0.76,
+        )
+        border = TextBorder(alpha=1.0, color=(0.0, 0.0, 0.0), width=42.0)
+        sub_clip = ClipSettings(transform_y=-0.76)
         prev_end_us = 0
         for i, seg in enumerate(segments):
             start_us = _us(seg.start)
@@ -162,8 +172,10 @@ def build_draft(
             tseg = TextSegment(
                 seg.text,
                 Timerange(start_us, dur),
+                font=FontType.BebasNeue,
                 style=style,
                 clip_settings=sub_clip,
+                border=border,
             )
             script.add_segment(tseg, "subtitles")
             prev_end_us = start_us + dur

@@ -1,0 +1,6602 @@
+[
+  {
+    "text": "What",
+    "start": 0.14,
+    "end": 0.62
+  },
+  {
+    "text": "if",
+    "start": 0.62,
+    "end": 0.7
+  },
+  {
+    "text": "the",
+    "start": 0.7,
+    "end": 0.84
+  },
+  {
+    "text": "sun",
+    "start": 0.84,
+    "end": 1.02
+  },
+  {
+    "text": "vanished,",
+    "start": 1.02,
+    "end": 1.56
+  },
+  {
+    "text": "not",
+    "start": 2.02,
+    "end": 2.66
+  },
+  {
+    "text": "exploded,",
+    "start": 2.66,
+    "end": 3.22
+  },
+  {
+    "text": "not",
+    "start": 3.62,
+    "end": 3.94
+  },
+  {
+    "text": "faded,",
+    "start": 3.94,
+    "end": 4.4
+  },
+  {
+    "text": "not",
+    "start": 4.94,
+    "end": 5.22
+  },
+  {
+    "text": "hidden",
+    "start": 5.22,
+    "end": 5.54
+  },
+  {
+    "text": "by",
+    "start": 5.54,
+    "end": 5.8
+  },
+  {
+    "text": "clouds,",
+    "start": 5.8,
+    "end": 6.28
+  },
+  {
+    "text": "just",
+    "start": 6.7,
+    "end": 7.22
+  },
+  {
+    "text": "gone?",
+    "start": 7.22,
+    "end": 7.62
+  },
+  {
+    "text": "One",
+    "start": 8.74,
+    "end": 8.94
+  },
+  {
+    "text": "second",
+    "start": 8.94,
+    "end": 9.28
+  },
+  {
+    "text": "there",
+    "start": 9.28,
+    "end": 9.54
+  },
+  {
+    "text": "is",
+    "start": 9.54,
+    "end": 9.68
+  },
+  {
+    "text": "a",
+    "start": 9.68,
+    "end": 9.78
+  },
+  {
+    "text": "star",
+    "start": 9.78,
+    "end": 10.16
+  },
+  {
+    "text": "at",
+    "start": 10.16,
+    "end": 10.46
+  },
+  {
+    "text": "the",
+    "start": 10.46,
+    "end": 10.56
+  },
+  {
+    "text": "center",
+    "start": 10.56,
+    "end": 10.84
+  },
+  {
+    "text": "of",
+    "start": 10.84,
+    "end": 11.0
+  },
+  {
+    "text": "our",
+    "start": 11.0,
+    "end": 11.1
+  },
+  {
+    "text": "sky.",
+    "start": 11.1,
+    "end": 11.46
+  },
+  {
+    "text": "The",
+    "start": 12.0,
+    "end": 12.08
+  },
+  {
+    "text": "next",
+    "start": 12.08,
+    "end": 12.28
+  },
+  {
+    "text": "second",
+    "start": 12.28,
+    "end": 12.96
+  },
+  {
+    "text": "there",
+    "start": 12.96,
+    "end": 13.38
+  },
+  {
+    "text": "is",
+    "start": 13.38,
+    "end": 13.58
+  },
+  {
+    "text": "nothing",
+    "start": 13.58,
+    "end": 13.88
+  },
+  {
+    "text": "where",
+    "start": 13.88,
+    "end": 14.12
+  },
+  {
+    "text": "the",
+    "start": 14.12,
+    "end": 14.26
+  },
+  {
+    "text": "star",
+    "start": 14.26,
+    "end": 14.58
+  },
+  {
+    "text": "used",
+    "start": 14.58,
+    "end": 14.96
+  },
+  {
+    "text": "to",
+    "start": 14.96,
+    "end": 15.38
+  },
+  {
+    "text": "be.",
+    "start": 15.38,
+    "end": 15.66
+  },
+  {
+    "text": "You",
+    "start": 16.56,
+    "end": 16.76
+  },
+  {
+    "text": "might",
+    "start": 16.76,
+    "end": 16.98
+  },
+  {
+    "text": "imagine",
+    "start": 16.98,
+    "end": 17.5
+  },
+  {
+    "text": "instant",
+    "start": 17.5,
+    "end": 18.1
+  },
+  {
+    "text": "darkness,",
+    "start": 18.1,
+    "end": 18.94
+  },
+  {
+    "text": "screaming",
+    "start": 19.82,
+    "end": 20.22
+  },
+  {
+    "text": "alarms,",
+    "start": 20.22,
+    "end": 20.98
+  },
+  {
+    "text": "oceans",
+    "start": 21.96,
+    "end": 22.56
+  },
+  {
+    "text": "freezing",
+    "start": 22.56,
+    "end": 23.08
+  },
+  {
+    "text": "in",
+    "start": 23.08,
+    "end": 23.6
+  },
+  {
+    "text": "a",
+    "start": 23.6,
+    "end": 23.7
+  },
+  {
+    "text": "single",
+    "start": 23.7,
+    "end": 24.18
+  },
+  {
+    "text": "breath,",
+    "start": 24.18,
+    "end": 24.76
+  },
+  {
+    "text": "earth",
+    "start": 25.14,
+    "end": 25.48
+  },
+  {
+    "text": "falling",
+    "start": 25.48,
+    "end": 25.94
+  },
+  {
+    "text": "into",
+    "start": 25.94,
+    "end": 26.24
+  },
+  {
+    "text": "the",
+    "start": 26.24,
+    "end": 26.44
+  },
+  {
+    "text": "empty",
+    "start": 26.44,
+    "end": 26.74
+  },
+  {
+    "text": "center.",
+    "start": 26.74,
+    "end": 27.42
+  },
+  {
+    "text": "But",
+    "start": 28.16,
+    "end": 28.54
+  },
+  {
+    "text": "physics",
+    "start": 28.54,
+    "end": 28.92
+  },
+  {
+    "text": "tells",
+    "start": 28.92,
+    "end": 29.24
+  },
+  {
+    "text": "a",
+    "start": 29.24,
+    "end": 29.48
+  },
+  {
+    "text": "stranger",
+    "start": 29.48,
+    "end": 29.92
+  },
+  {
+    "text": "story.",
+    "start": 29.92,
+    "end": 30.68
+  },
+  {
+    "text": "For",
+    "start": 31.12,
+    "end": 31.68
+  },
+  {
+    "text": "8",
+    "start": 31.68,
+    "end": 31.92
+  },
+  {
+    "text": "minutes",
+    "start": 31.92,
+    "end": 32.18
+  },
+  {
+    "text": "and",
+    "start": 32.18,
+    "end": 32.58
+  },
+  {
+    "text": "20",
+    "start": 32.58,
+    "end": 32.96
+  },
+  {
+    "text": "seconds,",
+    "start": 32.96,
+    "end": 33.58
+  },
+  {
+    "text": "your",
+    "start": 34.06,
+    "end": 34.44
+  },
+  {
+    "text": "world",
+    "start": 34.44,
+    "end": 35.2
+  },
+  {
+    "text": "keeps",
+    "start": 35.2,
+    "end": 35.52
+  },
+  {
+    "text": "lying",
+    "start": 35.52,
+    "end": 36.14
+  },
+  {
+    "text": "to",
+    "start": 36.14,
+    "end": 36.46
+  },
+  {
+    "text": "you.",
+    "start": 36.46,
+    "end": 36.7
+  },
+  {
+    "text": "The",
+    "start": 37.14,
+    "end": 37.2
+  },
+  {
+    "text": "sky",
+    "start": 37.2,
+    "end": 37.6
+  },
+  {
+    "text": "stays",
+    "start": 37.6,
+    "end": 38.2
+  },
+  {
+    "text": "blue,",
+    "start": 38.2,
+    "end": 38.54
+  },
+  {
+    "text": "the",
+    "start": 39.02,
+    "end": 39.12
+  },
+  {
+    "text": "pavement",
+    "start": 39.12,
+    "end": 39.58
+  },
+  {
+    "text": "stays",
+    "start": 39.58,
+    "end": 40.04
+  },
+  {
+    "text": "warm.",
+    "start": 40.04,
+    "end": 40.56
+  },
+  {
+    "text": "Your",
+    "start": 41.32,
+    "end": 41.48
+  },
+  {
+    "text": "shadow",
+    "start": 41.48,
+    "end": 41.88
+  },
+  {
+    "text": "still",
+    "start": 41.88,
+    "end": 42.26
+  },
+  {
+    "text": "points",
+    "start": 42.26,
+    "end": 42.62
+  },
+  {
+    "text": "away",
+    "start": 42.62,
+    "end": 43.02
+  },
+  {
+    "text": "from",
+    "start": 43.02,
+    "end": 43.32
+  },
+  {
+    "text": "a",
+    "start": 43.32,
+    "end": 43.46
+  },
+  {
+    "text": "sun",
+    "start": 43.46,
+    "end": 43.9
+  },
+  {
+    "text": "that",
+    "start": 43.9,
+    "end": 44.34
+  },
+  {
+    "text": "no",
+    "start": 44.34,
+    "end": 44.58
+  },
+  {
+    "text": "longer",
+    "start": 44.58,
+    "end": 44.98
+  },
+  {
+    "text": "exists.",
+    "start": 44.98,
+    "end": 45.48
+  },
+  {
+    "text": "A",
+    "start": 46.62,
+    "end": 46.82
+  },
+  {
+    "text": "bird",
+    "start": 46.82,
+    "end": 47.12
+  },
+  {
+    "text": "can",
+    "start": 47.12,
+    "end": 47.4
+  },
+  {
+    "text": "cross",
+    "start": 47.4,
+    "end": 47.64
+  },
+  {
+    "text": "the",
+    "start": 47.64,
+    "end": 47.92
+  },
+  {
+    "text": "light,",
+    "start": 47.92,
+    "end": 48.14
+  },
+  {
+    "text": "a",
+    "start": 48.72,
+    "end": 48.88
+  },
+  {
+    "text": "child",
+    "start": 48.88,
+    "end": 49.38
+  },
+  {
+    "text": "can",
+    "start": 49.38,
+    "end": 49.66
+  },
+  {
+    "text": "laugh",
+    "start": 49.66,
+    "end": 49.98
+  },
+  {
+    "text": "in",
+    "start": 49.98,
+    "end": 50.32
+  },
+  {
+    "text": "a",
+    "start": 50.32,
+    "end": 50.44
+  },
+  {
+    "text": "park,",
+    "start": 50.44,
+    "end": 50.7
+  },
+  {
+    "text": "a",
+    "start": 51.48,
+    "end": 51.64
+  },
+  {
+    "text": "solar",
+    "start": 51.64,
+    "end": 52.04
+  },
+  {
+    "text": "panel",
+    "start": 52.04,
+    "end": 52.52
+  },
+  {
+    "text": "can",
+    "start": 52.52,
+    "end": 52.98
+  },
+  {
+    "text": "keep",
+    "start": 52.98,
+    "end": 53.24
+  },
+  {
+    "text": "drinking",
+    "start": 53.24,
+    "end": 53.58
+  },
+  {
+    "text": "the",
+    "start": 53.58,
+    "end": 53.82
+  },
+  {
+    "text": "last",
+    "start": 53.82,
+    "end": 54.12
+  },
+  {
+    "text": "photons.",
+    "start": 54.12,
+    "end": 54.6
+  },
+  {
+    "text": "And",
+    "start": 55.54,
+    "end": 55.98
+  },
+  {
+    "text": "nobody",
+    "start": 55.98,
+    "end": 56.74
+  },
+  {
+    "text": "on",
+    "start": 56.74,
+    "end": 57.18
+  },
+  {
+    "text": "earth",
+    "start": 57.18,
+    "end": 57.5
+  },
+  {
+    "text": "knows",
+    "start": 57.5,
+    "end": 57.78
+  },
+  {
+    "text": "the",
+    "start": 57.78,
+    "end": 58.06
+  },
+  {
+    "text": "most",
+    "start": 58.06,
+    "end": 58.28
+  },
+  {
+    "text": "important",
+    "start": 58.28,
+    "end": 58.86
+  },
+  {
+    "text": "thing",
+    "start": 58.86,
+    "end": 59.28
+  },
+  {
+    "text": "has",
+    "start": 59.28,
+    "end": 59.84
+  },
+  {
+    "text": "already",
+    "start": 59.84,
+    "end": 60.38
+  },
+  {
+    "text": "happened.",
+    "start": 60.38,
+    "end": 61.0
+  },
+  {
+    "text": "That",
+    "start": 61.38,
+    "end": 62.1
+  },
+  {
+    "text": "is",
+    "start": 62.1,
+    "end": 62.28
+  },
+  {
+    "text": "the",
+    "start": 62.28,
+    "end": 62.5
+  },
+  {
+    "text": "hook.",
+    "start": 62.5,
+    "end": 62.74
+  },
+  {
+    "text": "The",
+    "start": 63.7,
+    "end": 63.8
+  },
+  {
+    "text": "disaster",
+    "start": 63.8,
+    "end": 64.48
+  },
+  {
+    "text": "does",
+    "start": 64.48,
+    "end": 65.04
+  },
+  {
+    "text": "not",
+    "start": 65.04,
+    "end": 65.44
+  },
+  {
+    "text": "begin",
+    "start": 65.44,
+    "end": 65.9
+  },
+  {
+    "text": "with",
+    "start": 65.9,
+    "end": 66.26
+  },
+  {
+    "text": "destruction.",
+    "start": 66.26,
+    "end": 66.88
+  },
+  {
+    "text": "It",
+    "start": 67.58,
+    "end": 67.8
+  },
+  {
+    "text": "begins",
+    "start": 67.8,
+    "end": 68.14
+  },
+  {
+    "text": "with",
+    "start": 68.14,
+    "end": 68.54
+  },
+  {
+    "text": "delay",
+    "start": 68.54,
+    "end": 68.96
+  },
+  {
+    "text": "because",
+    "start": 68.96,
+    "end": 69.96
+  },
+  {
+    "text": "sunlight",
+    "start": 69.96,
+    "end": 70.82
+  },
+  {
+    "text": "is",
+    "start": 70.82,
+    "end": 71.4
+  },
+  {
+    "text": "not",
+    "start": 71.4,
+    "end": 71.6
+  },
+  {
+    "text": "live.",
+    "start": 71.6,
+    "end": 71.98
+  },
+  {
+    "text": "The",
+    "start": 72.46,
+    "end": 72.58
+  },
+  {
+    "text": "sun",
+    "start": 72.58,
+    "end": 73.0
+  },
+  {
+    "text": "is",
+    "start": 73.0,
+    "end": 73.34
+  },
+  {
+    "text": "about",
+    "start": 73.34,
+    "end": 73.84
+  },
+  {
+    "text": "93",
+    "start": 73.84,
+    "end": 74.8
+  },
+  {
+    "text": "million",
+    "start": 74.8,
+    "end": 75.36
+  },
+  {
+    "text": "miles",
+    "start": 75.36,
+    "end": 75.82
+  },
+  {
+    "text": "away.",
+    "start": 75.82,
+    "end": 76.2
+  },
+  {
+    "text": "That",
+    "start": 76.64,
+    "end": 76.86
+  },
+  {
+    "text": "is",
+    "start": 76.86,
+    "end": 77.02
+  },
+  {
+    "text": "about",
+    "start": 77.02,
+    "end": 77.36
+  },
+  {
+    "text": "150",
+    "start": 77.36,
+    "end": 78.4
+  },
+  {
+    "text": "million",
+    "start": 78.4,
+    "end": 79.24
+  },
+  {
+    "text": "kilometers.",
+    "start": 79.24,
+    "end": 80.02
+  },
+  {
+    "text": "Light",
+    "start": 80.82,
+    "end": 81.58
+  },
+  {
+    "text": "needs",
+    "start": 81.58,
+    "end": 81.98
+  },
+  {
+    "text": "a",
+    "start": 81.98,
+    "end": 82.38
+  },
+  {
+    "text": "little",
+    "start": 82.38,
+    "end": 82.66
+  },
+  {
+    "text": "over",
+    "start": 82.66,
+    "end": 83.08
+  },
+  {
+    "text": "8",
+    "start": 83.08,
+    "end": 83.5
+  },
+  {
+    "text": "minutes",
+    "start": 83.5,
+    "end": 83.88
+  },
+  {
+    "text": "to",
+    "start": 83.88,
+    "end": 84.4
+  },
+  {
+    "text": "cross",
+    "start": 84.4,
+    "end": 84.72
+  },
+  {
+    "text": "that",
+    "start": 84.72,
+    "end": 85.12
+  },
+  {
+    "text": "gap.",
+    "start": 85.12,
+    "end": 85.48
+  },
+  {
+    "text": "So",
+    "start": 86.2,
+    "end": 86.22
+  },
+  {
+    "text": "the",
+    "start": 86.22,
+    "end": 86.34
+  },
+  {
+    "text": "sunlight",
+    "start": 86.34,
+    "end": 86.72
+  },
+  {
+    "text": "touching",
+    "start": 86.72,
+    "end": 87.26
+  },
+  {
+    "text": "your",
+    "start": 87.26,
+    "end": 87.48
+  },
+  {
+    "text": "face",
+    "start": 87.48,
+    "end": 87.8
+  },
+  {
+    "text": "right",
+    "start": 87.8,
+    "end": 88.1
+  },
+  {
+    "text": "now",
+    "start": 88.1,
+    "end": 88.5
+  },
+  {
+    "text": "left",
+    "start": 88.5,
+    "end": 89.06
+  },
+  {
+    "text": "the",
+    "start": 89.06,
+    "end": 89.32
+  },
+  {
+    "text": "sun",
+    "start": 89.32,
+    "end": 89.54
+  },
+  {
+    "text": "earlier.",
+    "start": 89.54,
+    "end": 89.94
+  },
+  {
+    "text": "It",
+    "start": 90.7,
+    "end": 90.86
+  },
+  {
+    "text": "is",
+    "start": 90.86,
+    "end": 91.18
+  },
+  {
+    "text": "old",
+    "start": 91.18,
+    "end": 91.74
+  },
+  {
+    "text": "light.",
+    "start": 91.74,
+    "end": 92.24
+  },
+  {
+    "text": "A",
+    "start": 92.82,
+    "end": 93.08
+  },
+  {
+    "text": "message",
+    "start": 93.08,
+    "end": 93.44
+  },
+  {
+    "text": "from",
+    "start": 93.44,
+    "end": 93.92
+  },
+  {
+    "text": "the",
+    "start": 93.92,
+    "end": 94.08
+  },
+  {
+    "text": "recent",
+    "start": 94.08,
+    "end": 94.46
+  },
+  {
+    "text": "past.",
+    "start": 94.46,
+    "end": 95.22
+  },
+  {
+    "text": "And",
+    "start": 95.94,
+    "end": 96.2
+  },
+  {
+    "text": "gravity",
+    "start": 96.2,
+    "end": 96.6
+  },
+  {
+    "text": "is",
+    "start": 96.6,
+    "end": 96.96
+  },
+  {
+    "text": "a",
+    "start": 96.96,
+    "end": 97.24
+  },
+  {
+    "text": "message",
+    "start": 97.24,
+    "end": 97.56
+  },
+  {
+    "text": "too.",
+    "start": 97.56,
+    "end": 97.98
+  },
+  {
+    "text": "In",
+    "start": 98.52,
+    "end": 98.66
+  },
+  {
+    "text": "Einstein's",
+    "start": 98.66,
+    "end": 99.38
+  },
+  {
+    "text": "universe,",
+    "start": 99.38,
+    "end": 99.74
+  },
+  {
+    "text": "changes",
+    "start": 100.04,
+    "end": 100.26
+  },
+  {
+    "text": "in",
+    "start": 100.26,
+    "end": 100.5
+  },
+  {
+    "text": "gravity",
+    "start": 100.5,
+    "end": 100.92
+  },
+  {
+    "text": "do",
+    "start": 100.92,
+    "end": 101.48
+  },
+  {
+    "text": "not",
+    "start": 101.48,
+    "end": 101.82
+  },
+  {
+    "text": "update",
+    "start": 101.82,
+    "end": 102.52
+  },
+  {
+    "text": "everywhere",
+    "start": 102.52,
+    "end": 103.46
+  },
+  {
+    "text": "instantly.",
+    "start": 103.46,
+    "end": 104.38
+  },
+  {
+    "text": "They",
+    "start": 105.08,
+    "end": 105.32
+  },
+  {
+    "text": "travel",
+    "start": 105.32,
+    "end": 105.8
+  },
+  {
+    "text": "at",
+    "start": 105.8,
+    "end": 106.08
+  },
+  {
+    "text": "the",
+    "start": 106.08,
+    "end": 106.22
+  },
+  {
+    "text": "speed",
+    "start": 106.22,
+    "end": 106.48
+  },
+  {
+    "text": "of",
+    "start": 106.48,
+    "end": 106.68
+  },
+  {
+    "text": "light.",
+    "start": 106.68,
+    "end": 106.98
+  },
+  {
+    "text": "So",
+    "start": 107.98,
+    "end": 108.36
+  },
+  {
+    "text": "if",
+    "start": 108.36,
+    "end": 108.6
+  },
+  {
+    "text": "the",
+    "start": 108.6,
+    "end": 108.76
+  },
+  {
+    "text": "sun",
+    "start": 108.76,
+    "end": 109.0
+  },
+  {
+    "text": "vanished",
+    "start": 109.0,
+    "end": 109.38
+  },
+  {
+    "text": "right",
+    "start": 109.38,
+    "end": 109.64
+  },
+  {
+    "text": "now,",
+    "start": 109.64,
+    "end": 110.04
+  },
+  {
+    "text": "earth",
+    "start": 110.64,
+    "end": 111.18
+  },
+  {
+    "text": "would",
+    "start": 111.18,
+    "end": 111.4
+  },
+  {
+    "text": "not",
+    "start": 111.4,
+    "end": 111.72
+  },
+  {
+    "text": "receive",
+    "start": 111.72,
+    "end": 112.3
+  },
+  {
+    "text": "the",
+    "start": 112.3,
+    "end": 112.72
+  },
+  {
+    "text": "news",
+    "start": 112.72,
+    "end": 113.0
+  },
+  {
+    "text": "immediately.",
+    "start": 113.0,
+    "end": 113.66
+  },
+  {
+    "text": "Not",
+    "start": 114.54,
+    "end": 114.7
+  },
+  {
+    "text": "through",
+    "start": 114.7,
+    "end": 115.04
+  },
+  {
+    "text": "your",
+    "start": 115.04,
+    "end": 115.26
+  },
+  {
+    "text": "eyes.",
+    "start": 115.26,
+    "end": 115.6
+  },
+  {
+    "text": "Not",
+    "start": 116.84,
+    "end": 116.98
+  },
+  {
+    "text": "through",
+    "start": 116.98,
+    "end": 117.22
+  },
+  {
+    "text": "the",
+    "start": 117.22,
+    "end": 117.42
+  },
+  {
+    "text": "air.",
+    "start": 117.42,
+    "end": 117.64
+  },
+  {
+    "text": "Not",
+    "start": 118.36,
+    "end": 118.56
+  },
+  {
+    "text": "through",
+    "start": 118.56,
+    "end": 118.82
+  },
+  {
+    "text": "the",
+    "start": 118.82,
+    "end": 118.96
+  },
+  {
+    "text": "orbit.",
+    "start": 118.96,
+    "end": 119.24
+  },
+  {
+    "text": "For",
+    "start": 120.14,
+    "end": 120.5
+  },
+  {
+    "text": "a",
+    "start": 120.5,
+    "end": 120.82
+  },
+  {
+    "text": "few",
+    "start": 120.82,
+    "end": 121.04
+  },
+  {
+    "text": "impossible",
+    "start": 121.04,
+    "end": 121.56
+  },
+  {
+    "text": "minutes,",
+    "start": 121.56,
+    "end": 122.04
+  },
+  {
+    "text": "the",
+    "start": 122.68,
+    "end": 122.98
+  },
+  {
+    "text": "solar",
+    "start": 122.98,
+    "end": 123.46
+  },
+  {
+    "text": "system",
+    "start": 123.46,
+    "end": 124.02
+  },
+  {
+    "text": "runs",
+    "start": 124.02,
+    "end": 124.5
+  },
+  {
+    "text": "on",
+    "start": 124.5,
+    "end": 125.02
+  },
+  {
+    "text": "the",
+    "start": 125.02,
+    "end": 125.2
+  },
+  {
+    "text": "last",
+    "start": 125.2,
+    "end": 125.5
+  },
+  {
+    "text": "version",
+    "start": 125.5,
+    "end": 126.0
+  },
+  {
+    "text": "it",
+    "start": 126.0,
+    "end": 126.18
+  },
+  {
+    "text": "received.",
+    "start": 126.18,
+    "end": 126.78
+  },
+  {
+    "text": "Think",
+    "start": 127.12,
+    "end": 127.3
+  },
+  {
+    "text": "of",
+    "start": 127.3,
+    "end": 127.5
+  },
+  {
+    "text": "it",
+    "start": 127.5,
+    "end": 127.66
+  },
+  {
+    "text": "like",
+    "start": 127.66,
+    "end": 128.14
+  },
+  {
+    "text": "a",
+    "start": 128.14,
+    "end": 128.34
+  },
+  {
+    "text": "video",
+    "start": 128.34,
+    "end": 128.72
+  },
+  {
+    "text": "call",
+    "start": 128.72,
+    "end": 129.06
+  },
+  {
+    "text": "with",
+    "start": 129.06,
+    "end": 129.46
+  },
+  {
+    "text": "the",
+    "start": 129.46,
+    "end": 129.62
+  },
+  {
+    "text": "universe.",
+    "start": 129.62,
+    "end": 130.04
+  },
+  {
+    "text": "The",
+    "start": 130.8,
+    "end": 130.88
+  },
+  {
+    "text": "screen",
+    "start": 130.88,
+    "end": 132.06
+  },
+  {
+    "text": "has",
+    "start": 132.06,
+    "end": 132.48
+  },
+  {
+    "text": "not",
+    "start": 132.48,
+    "end": 132.96
+  },
+  {
+    "text": "refreshed",
+    "start": 132.96,
+    "end": 133.58
+  },
+  {
+    "text": "yet.",
+    "start": 133.58,
+    "end": 134.08
+  },
+  {
+    "text": "The",
+    "start": 134.08,
+    "end": 134.72
+  },
+  {
+    "text": "sound",
+    "start": 134.72,
+    "end": 135.14
+  },
+  {
+    "text": "is",
+    "start": 135.14,
+    "end": 135.46
+  },
+  {
+    "text": "still",
+    "start": 135.46,
+    "end": 135.86
+  },
+  {
+    "text": "arriving.",
+    "start": 135.86,
+    "end": 136.46
+  },
+  {
+    "text": "The",
+    "start": 137.08,
+    "end": 137.54
+  },
+  {
+    "text": "person",
+    "start": 137.54,
+    "end": 137.9
+  },
+  {
+    "text": "on",
+    "start": 137.9,
+    "end": 138.16
+  },
+  {
+    "text": "the",
+    "start": 138.16,
+    "end": 138.38
+  },
+  {
+    "text": "other",
+    "start": 138.38,
+    "end": 138.6
+  },
+  {
+    "text": "end",
+    "start": 138.6,
+    "end": 138.94
+  },
+  {
+    "text": "may",
+    "start": 138.94,
+    "end": 139.14
+  },
+  {
+    "text": "already",
+    "start": 139.14,
+    "end": 139.46
+  },
+  {
+    "text": "be",
+    "start": 139.46,
+    "end": 139.74
+  },
+  {
+    "text": "gone.",
+    "start": 139.74,
+    "end": 140.14
+  },
+  {
+    "text": "But",
+    "start": 140.82,
+    "end": 141.04
+  },
+  {
+    "text": "your",
+    "start": 141.04,
+    "end": 141.26
+  },
+  {
+    "text": "room",
+    "start": 141.26,
+    "end": 141.78
+  },
+  {
+    "text": "still",
+    "start": 141.78,
+    "end": 142.44
+  },
+  {
+    "text": "hears",
+    "start": 142.44,
+    "end": 143.08
+  },
+  {
+    "text": "their",
+    "start": 143.08,
+    "end": 143.48
+  },
+  {
+    "text": "old",
+    "start": 143.48,
+    "end": 143.78
+  },
+  {
+    "text": "voice.",
+    "start": 143.78,
+    "end": 144.2
+  },
+  {
+    "text": "That",
+    "start": 145.32,
+    "end": 145.66
+  },
+  {
+    "text": "is",
+    "start": 145.66,
+    "end": 145.98
+  },
+  {
+    "text": "what",
+    "start": 145.98,
+    "end": 146.2
+  },
+  {
+    "text": "earth",
+    "start": 146.2,
+    "end": 146.46
+  },
+  {
+    "text": "would",
+    "start": 146.46,
+    "end": 146.7
+  },
+  {
+    "text": "be",
+    "start": 146.7,
+    "end": 146.92
+  },
+  {
+    "text": "doing.",
+    "start": 146.92,
+    "end": 147.36
+  },
+  {
+    "text": "Living",
+    "start": 148.34,
+    "end": 148.62
+  },
+  {
+    "text": "inside",
+    "start": 148.62,
+    "end": 149.08
+  },
+  {
+    "text": "an",
+    "start": 149.08,
+    "end": 149.28
+  },
+  {
+    "text": "8",
+    "start": 149.28,
+    "end": 149.5
+  },
+  {
+    "text": "minute",
+    "start": 149.5,
+    "end": 149.76
+  },
+  {
+    "text": "old",
+    "start": 149.76,
+    "end": 150.1
+  },
+  {
+    "text": "message.",
+    "start": 150.1,
+    "end": 150.58
+  },
+  {
+    "text": "Then",
+    "start": 151.74,
+    "end": 152.12
+  },
+  {
+    "text": "the",
+    "start": 152.12,
+    "end": 152.34
+  },
+  {
+    "text": "final",
+    "start": 152.34,
+    "end": 152.78
+  },
+  {
+    "text": "sunlight",
+    "start": 152.78,
+    "end": 153.42
+  },
+  {
+    "text": "arrives.",
+    "start": 153.42,
+    "end": 154.48
+  },
+  {
+    "text": "Not",
+    "start": 154.8,
+    "end": 154.92
+  },
+  {
+    "text": "slowly",
+    "start": 154.92,
+    "end": 155.46
+  },
+  {
+    "text": "like",
+    "start": 155.46,
+    "end": 155.76
+  },
+  {
+    "text": "sunset.",
+    "start": 155.76,
+    "end": 156.3
+  },
+  {
+    "text": "Not",
+    "start": 157.18,
+    "end": 157.46
+  },
+  {
+    "text": "warmly",
+    "start": 157.46,
+    "end": 158.06
+  },
+  {
+    "text": "like",
+    "start": 158.06,
+    "end": 158.3
+  },
+  {
+    "text": "evening.",
+    "start": 158.3,
+    "end": 158.76
+  },
+  {
+    "text": "It",
+    "start": 159.34,
+    "end": 159.42
+  },
+  {
+    "text": "switches",
+    "start": 159.42,
+    "end": 159.76
+  },
+  {
+    "text": "off.",
+    "start": 159.76,
+    "end": 160.1
+  },
+  {
+    "text": "The",
+    "start": 160.64,
+    "end": 160.82
+  },
+  {
+    "text": "blue",
+    "start": 160.82,
+    "end": 161.04
+  },
+  {
+    "text": "sky",
+    "start": 161.04,
+    "end": 161.4
+  },
+  {
+    "text": "turns",
+    "start": 161.4,
+    "end": 161.98
+  },
+  {
+    "text": "black.",
+    "start": 161.98,
+    "end": 162.4
+  },
+  {
+    "text": "The",
+    "start": 162.4,
+    "end": 163.14
+  },
+  {
+    "text": "sun",
+    "start": 163.14,
+    "end": 163.4
+  },
+  {
+    "text": "leaves",
+    "start": 163.4,
+    "end": 163.72
+  },
+  {
+    "text": "no",
+    "start": 163.72,
+    "end": 164.04
+  },
+  {
+    "text": "glowing",
+    "start": 164.04,
+    "end": 164.42
+  },
+  {
+    "text": "hole.",
+    "start": 164.42,
+    "end": 164.78
+  },
+  {
+    "text": "No",
+    "start": 165.34,
+    "end": 165.44
+  },
+  {
+    "text": "fiery",
+    "start": 165.44,
+    "end": 165.9
+  },
+  {
+    "text": "wound.",
+    "start": 165.9,
+    "end": 166.32
+  },
+  {
+    "text": "No",
+    "start": 167.1,
+    "end": 167.26
+  },
+  {
+    "text": "cosmic",
+    "start": 167.26,
+    "end": 167.68
+  },
+  {
+    "text": "explosion.",
+    "start": 167.68,
+    "end": 168.4
+  },
+  {
+    "text": "Just",
+    "start": 169.08,
+    "end": 169.32
+  },
+  {
+    "text": "absence.",
+    "start": 169.32,
+    "end": 169.82
+  },
+  {
+    "text": "The",
+    "start": 170.52,
+    "end": 170.64
+  },
+  {
+    "text": "moon",
+    "start": 170.64,
+    "end": 170.92
+  },
+  {
+    "text": "goes",
+    "start": 170.92,
+    "end": 171.3
+  },
+  {
+    "text": "dark",
+    "start": 171.3,
+    "end": 171.66
+  },
+  {
+    "text": "soon",
+    "start": 171.66,
+    "end": 172.14
+  },
+  {
+    "text": "after",
+    "start": 172.14,
+    "end": 172.52
+  },
+  {
+    "text": "because",
+    "start": 172.52,
+    "end": 172.98
+  },
+  {
+    "text": "moonlight",
+    "start": 172.98,
+    "end": 173.34
+  },
+  {
+    "text": "was",
+    "start": 173.34,
+    "end": 173.58
+  },
+  {
+    "text": "borrowed",
+    "start": 173.58,
+    "end": 173.9
+  },
+  {
+    "text": "sunlight.",
+    "start": 173.9,
+    "end": 174.48
+  },
+  {
+    "text": "Daytime",
+    "start": 175.52,
+    "end": 176.08
+  },
+  {
+    "text": "stars",
+    "start": 176.08,
+    "end": 176.48
+  },
+  {
+    "text": "appear.",
+    "start": 176.48,
+    "end": 176.88
+  },
+  {
+    "text": "The",
+    "start": 177.9,
+    "end": 177.98
+  },
+  {
+    "text": "familiar",
+    "start": 177.98,
+    "end": 178.46
+  },
+  {
+    "text": "world",
+    "start": 178.46,
+    "end": 179.08
+  },
+  {
+    "text": "loses",
+    "start": 179.08,
+    "end": 179.62
+  },
+  {
+    "text": "its",
+    "start": 179.62,
+    "end": 179.94
+  },
+  {
+    "text": "ceiling.",
+    "start": 179.94,
+    "end": 180.42
+  },
+  {
+    "text": "And",
+    "start": 181.32,
+    "end": 181.54
+  },
+  {
+    "text": "in",
+    "start": 181.54,
+    "end": 181.64
+  },
+  {
+    "text": "the",
+    "start": 181.64,
+    "end": 181.78
+  },
+  {
+    "text": "same",
+    "start": 181.78,
+    "end": 182.04
+  },
+  {
+    "text": "moment,",
+    "start": 182.04,
+    "end": 182.7
+  },
+  {
+    "text": "the",
+    "start": 183.3,
+    "end": 183.42
+  },
+  {
+    "text": "old",
+    "start": 183.42,
+    "end": 183.74
+  },
+  {
+    "text": "pull",
+    "start": 183.74,
+    "end": 184.02
+  },
+  {
+    "text": "of",
+    "start": 184.02,
+    "end": 184.24
+  },
+  {
+    "text": "the",
+    "start": 184.24,
+    "end": 184.36
+  },
+  {
+    "text": "sun",
+    "start": 184.36,
+    "end": 184.66
+  },
+  {
+    "text": "stops",
+    "start": 184.66,
+    "end": 185.16
+  },
+  {
+    "text": "arriving",
+    "start": 185.16,
+    "end": 185.6
+  },
+  {
+    "text": "too.",
+    "start": 185.6,
+    "end": 185.94
+  },
+  {
+    "text": "Earth",
+    "start": 186.82,
+    "end": 187.4
+  },
+  {
+    "text": "does",
+    "start": 187.4,
+    "end": 187.66
+  },
+  {
+    "text": "not",
+    "start": 187.66,
+    "end": 187.9
+  },
+  {
+    "text": "drop",
+    "start": 187.9,
+    "end": 188.16
+  },
+  {
+    "text": "straight",
+    "start": 188.16,
+    "end": 188.68
+  },
+  {
+    "text": "toward",
+    "start": 188.68,
+    "end": 189.14
+  },
+  {
+    "text": "the",
+    "start": 189.14,
+    "end": 189.38
+  },
+  {
+    "text": "missing",
+    "start": 189.38,
+    "end": 189.68
+  },
+  {
+    "text": "sun.",
+    "start": 189.68,
+    "end": 190.16
+  },
+  {
+    "text": "That",
+    "start": 190.98,
+    "end": 191.38
+  },
+  {
+    "text": "mistake",
+    "start": 191.38,
+    "end": 191.9
+  },
+  {
+    "text": "feels",
+    "start": 191.9,
+    "end": 192.48
+  },
+  {
+    "text": "natural.",
+    "start": 192.48,
+    "end": 193.04
+  },
+  {
+    "text": "We",
+    "start": 193.8,
+    "end": 194.0
+  },
+  {
+    "text": "think",
+    "start": 194.0,
+    "end": 194.22
+  },
+  {
+    "text": "gravity",
+    "start": 194.22,
+    "end": 194.7
+  },
+  {
+    "text": "is",
+    "start": 194.7,
+    "end": 195.18
+  },
+  {
+    "text": "as",
+    "start": 195.18,
+    "end": 195.34
+  },
+  {
+    "text": "a",
+    "start": 195.34,
+    "end": 195.46
+  },
+  {
+    "text": "rope.",
+    "start": 195.46,
+    "end": 195.62
+  },
+  {
+    "text": "We",
+    "start": 196.22,
+    "end": 196.44
+  },
+  {
+    "text": "imagine",
+    "start": 196.44,
+    "end": 196.78
+  },
+  {
+    "text": "the",
+    "start": 196.78,
+    "end": 197.0
+  },
+  {
+    "text": "rope",
+    "start": 197.0,
+    "end": 197.22
+  },
+  {
+    "text": "cut",
+    "start": 197.22,
+    "end": 197.6
+  },
+  {
+    "text": "and",
+    "start": 197.6,
+    "end": 198.64
+  },
+  {
+    "text": "the",
+    "start": 198.64,
+    "end": 199.1
+  },
+  {
+    "text": "planet",
+    "start": 199.1,
+    "end": 199.5
+  },
+  {
+    "text": "falling.",
+    "start": 199.5,
+    "end": 199.96
+  },
+  {
+    "text": "But",
+    "start": 200.5,
+    "end": 200.66
+  },
+  {
+    "text": "an",
+    "start": 200.66,
+    "end": 200.84
+  },
+  {
+    "text": "orbit",
+    "start": 200.84,
+    "end": 201.16
+  },
+  {
+    "text": "is",
+    "start": 201.16,
+    "end": 201.56
+  },
+  {
+    "text": "not",
+    "start": 201.56,
+    "end": 201.8
+  },
+  {
+    "text": "a",
+    "start": 201.8,
+    "end": 201.98
+  },
+  {
+    "text": "rope.",
+    "start": 201.98,
+    "end": 202.2
+  },
+  {
+    "text": "Earth",
+    "start": 202.76,
+    "end": 203.04
+  },
+  {
+    "text": "is",
+    "start": 203.04,
+    "end": 203.18
+  },
+  {
+    "text": "already",
+    "start": 203.18,
+    "end": 203.56
+  },
+  {
+    "text": "moving",
+    "start": 203.56,
+    "end": 203.96
+  },
+  {
+    "text": "size",
+    "start": 203.96,
+    "end": 204.32
+  },
+  {
+    "text": "at",
+    "start": 204.32,
+    "end": 204.54
+  },
+  {
+    "text": "about",
+    "start": 204.54,
+    "end": 204.78
+  },
+  {
+    "text": "67",
+    "start": 204.78,
+    "end": 205.94
+  },
+  {
+    "text": ",000",
+    "start": 205.94,
+    "end": 206.92
+  },
+  {
+    "text": "miles",
+    "start": 206.92,
+    "end": 207.24
+  },
+  {
+    "text": "per",
+    "start": 207.24,
+    "end": 208.56
+  },
+  {
+    "text": "hour.",
+    "start": 208.56,
+    "end": 208.88
+  },
+  {
+    "text": "The",
+    "start": 209.44,
+    "end": 209.54
+  },
+  {
+    "text": "sun's",
+    "start": 209.54,
+    "end": 209.94
+  },
+  {
+    "text": "gravity",
+    "start": 209.94,
+    "end": 210.4
+  },
+  {
+    "text": "keeps",
+    "start": 210.4,
+    "end": 210.82
+  },
+  {
+    "text": "bending",
+    "start": 210.82,
+    "end": 211.32
+  },
+  {
+    "text": "that",
+    "start": 211.32,
+    "end": 211.74
+  },
+  {
+    "text": "sideways",
+    "start": 211.74,
+    "end": 212.28
+  },
+  {
+    "text": "motion",
+    "start": 212.28,
+    "end": 212.88
+  },
+  {
+    "text": "into",
+    "start": 212.88,
+    "end": 213.32
+  },
+  {
+    "text": "a",
+    "start": 213.32,
+    "end": 213.52
+  },
+  {
+    "text": "circle.",
+    "start": 213.52,
+    "end": 213.84
+  },
+  {
+    "text": "Remove",
+    "start": 214.72,
+    "end": 214.94
+  },
+  {
+    "text": "the",
+    "start": 214.94,
+    "end": 215.22
+  },
+  {
+    "text": "bend",
+    "start": 215.22,
+    "end": 215.44
+  },
+  {
+    "text": "and",
+    "start": 215.44,
+    "end": 216.12
+  },
+  {
+    "text": "the",
+    "start": 216.12,
+    "end": 216.28
+  },
+  {
+    "text": "sideways",
+    "start": 216.28,
+    "end": 216.74
+  },
+  {
+    "text": "motion",
+    "start": 216.74,
+    "end": 217.34
+  },
+  {
+    "text": "remains.",
+    "start": 217.34,
+    "end": 217.82
+  },
+  {
+    "text": "Earth",
+    "start": 218.6,
+    "end": 219.36
+  },
+  {
+    "text": "flies",
+    "start": 219.36,
+    "end": 219.9
+  },
+  {
+    "text": "forward.",
+    "start": 219.9,
+    "end": 220.4
+  },
+  {
+    "text": "Not",
+    "start": 221.0,
+    "end": 221.36
+  },
+  {
+    "text": "into",
+    "start": 221.36,
+    "end": 221.66
+  },
+  {
+    "text": "the",
+    "start": 221.66,
+    "end": 221.84
+  },
+  {
+    "text": "old",
+    "start": 221.84,
+    "end": 222.02
+  },
+  {
+    "text": "center.",
+    "start": 222.02,
+    "end": 222.46
+  },
+  {
+    "text": "Not",
+    "start": 223.14,
+    "end": 223.24
+  },
+  {
+    "text": "around",
+    "start": 223.24,
+    "end": 223.66
+  },
+  {
+    "text": "a",
+    "start": 223.66,
+    "end": 223.98
+  },
+  {
+    "text": "new",
+    "start": 223.98,
+    "end": 224.2
+  },
+  {
+    "text": "circle.",
+    "start": 224.2,
+    "end": 224.66
+  },
+  {
+    "text": "Forward",
+    "start": 225.54,
+    "end": 226.0
+  },
+  {
+    "text": "along",
+    "start": 226.0,
+    "end": 226.54
+  },
+  {
+    "text": "the",
+    "start": 226.54,
+    "end": 226.74
+  },
+  {
+    "text": "path",
+    "start": 226.74,
+    "end": 227.1
+  },
+  {
+    "text": "it",
+    "start": 227.1,
+    "end": 227.24
+  },
+  {
+    "text": "already",
+    "start": 227.24,
+    "end": 227.5
+  },
+  {
+    "text": "had.",
+    "start": 227.5,
+    "end": 227.96
+  },
+  {
+    "text": "A",
+    "start": 228.86,
+    "end": 228.94
+  },
+  {
+    "text": "blue",
+    "start": 228.94,
+    "end": 229.2
+  },
+  {
+    "text": "planet",
+    "start": 229.2,
+    "end": 229.62
+  },
+  {
+    "text": "becomes",
+    "start": 229.62,
+    "end": 230.0
+  },
+  {
+    "text": "a",
+    "start": 230.0,
+    "end": 230.22
+  },
+  {
+    "text": "rogue",
+    "start": 230.22,
+    "end": 230.56
+  },
+  {
+    "text": "world.",
+    "start": 230.56,
+    "end": 231.2
+  },
+  {
+    "text": "A",
+    "start": 232.04,
+    "end": 232.2
+  },
+  {
+    "text": "city",
+    "start": 232.2,
+    "end": 232.46
+  },
+  {
+    "text": "-sized",
+    "start": 232.46,
+    "end": 232.88
+  },
+  {
+    "text": "map",
+    "start": 232.88,
+    "end": 233.26
+  },
+  {
+    "text": "could",
+    "start": 233.26,
+    "end": 233.66
+  },
+  {
+    "text": "not",
+    "start": 233.66,
+    "end": 233.92
+  },
+  {
+    "text": "show",
+    "start": 233.92,
+    "end": 234.36
+  },
+  {
+    "text": "the",
+    "start": 234.36,
+    "end": 234.58
+  },
+  {
+    "text": "change",
+    "start": 234.58,
+    "end": 234.96
+  },
+  {
+    "text": "at",
+    "start": 234.96,
+    "end": 235.34
+  },
+  {
+    "text": "first.",
+    "start": 235.34,
+    "end": 235.72
+  },
+  {
+    "text": "Your",
+    "start": 236.42,
+    "end": 236.5
+  },
+  {
+    "text": "feet",
+    "start": 236.5,
+    "end": 236.84
+  },
+  {
+    "text": "would",
+    "start": 236.84,
+    "end": 237.14
+  },
+  {
+    "text": "not",
+    "start": 237.14,
+    "end": 237.38
+  },
+  {
+    "text": "feel",
+    "start": 237.38,
+    "end": 237.7
+  },
+  {
+    "text": "a",
+    "start": 237.7,
+    "end": 237.86
+  },
+  {
+    "text": "jolt.",
+    "start": 237.86,
+    "end": 238.28
+  },
+  {
+    "text": "The",
+    "start": 239.1,
+    "end": 239.32
+  },
+  {
+    "text": "floor",
+    "start": 239.32,
+    "end": 239.8
+  },
+  {
+    "text": "would",
+    "start": 239.8,
+    "end": 240.34
+  },
+  {
+    "text": "not",
+    "start": 240.34,
+    "end": 240.6
+  },
+  {
+    "text": "tilt.",
+    "start": 240.6,
+    "end": 240.94
+  },
+  {
+    "text": "There",
+    "start": 241.62,
+    "end": 241.88
+  },
+  {
+    "text": "is",
+    "start": 241.88,
+    "end": 242.1
+  },
+  {
+    "text": "no",
+    "start": 242.1,
+    "end": 242.32
+  },
+  {
+    "text": "snap",
+    "start": 242.32,
+    "end": 242.7
+  },
+  {
+    "text": "because",
+    "start": 242.7,
+    "end": 243.4
+  },
+  {
+    "text": "orbit",
+    "start": 243.4,
+    "end": 243.92
+  },
+  {
+    "text": "was",
+    "start": 243.92,
+    "end": 244.24
+  },
+  {
+    "text": "freefall",
+    "start": 244.24,
+    "end": 244.78
+  },
+  {
+    "text": "all",
+    "start": 244.78,
+    "end": 245.18
+  },
+  {
+    "text": "along.",
+    "start": 245.18,
+    "end": 245.54
+  },
+  {
+    "text": "But",
+    "start": 246.34,
+    "end": 246.68
+  },
+  {
+    "text": "on",
+    "start": 246.68,
+    "end": 246.82
+  },
+  {
+    "text": "a",
+    "start": 246.82,
+    "end": 246.94
+  },
+  {
+    "text": "solar",
+    "start": 246.94,
+    "end": 247.2
+  },
+  {
+    "text": "system",
+    "start": 247.2,
+    "end": 247.64
+  },
+  {
+    "text": "map,",
+    "start": 247.64,
+    "end": 247.98
+  },
+  {
+    "text": "the",
+    "start": 248.5,
+    "end": 248.56
+  },
+  {
+    "text": "story",
+    "start": 248.56,
+    "end": 248.88
+  },
+  {
+    "text": "becomes",
+    "start": 248.88,
+    "end": 249.24
+  },
+  {
+    "text": "terrifying.",
+    "start": 249.24,
+    "end": 250.1
+  },
+  {
+    "text": "Mercury",
+    "start": 251.16,
+    "end": 251.58
+  },
+  {
+    "text": "gets",
+    "start": 251.58,
+    "end": 251.94
+  },
+  {
+    "text": "the",
+    "start": 251.94,
+    "end": 252.18
+  },
+  {
+    "text": "update",
+    "start": 252.18,
+    "end": 252.5
+  },
+  {
+    "text": "first.",
+    "start": 252.5,
+    "end": 253.02
+  },
+  {
+    "text": "Venus",
+    "start": 254.0,
+    "end": 254.28
+  },
+  {
+    "text": "gets",
+    "start": 254.28,
+    "end": 254.8
+  },
+  {
+    "text": "it",
+    "start": 254.8,
+    "end": 255.04
+  },
+  {
+    "text": "next.",
+    "start": 255.04,
+    "end": 255.26
+  },
+  {
+    "text": "Earth",
+    "start": 256.2,
+    "end": 256.5
+  },
+  {
+    "text": "gets",
+    "start": 256.5,
+    "end": 256.74
+  },
+  {
+    "text": "it",
+    "start": 256.74,
+    "end": 257.0
+  },
+  {
+    "text": "after",
+    "start": 257.0,
+    "end": 257.28
+  },
+  {
+    "text": "8",
+    "start": 257.28,
+    "end": 257.62
+  },
+  {
+    "text": "minutes",
+    "start": 257.62,
+    "end": 257.96
+  },
+  {
+    "text": "and",
+    "start": 257.96,
+    "end": 258.52
+  },
+  {
+    "text": "20",
+    "start": 258.52,
+    "end": 258.9
+  },
+  {
+    "text": "seconds.",
+    "start": 258.9,
+    "end": 259.5
+  },
+  {
+    "text": "Mars",
+    "start": 260.46,
+    "end": 260.86
+  },
+  {
+    "text": "keeps",
+    "start": 260.86,
+    "end": 261.52
+  },
+  {
+    "text": "following",
+    "start": 261.52,
+    "end": 262.04
+  },
+  {
+    "text": "an",
+    "start": 262.04,
+    "end": 262.24
+  },
+  {
+    "text": "old",
+    "start": 262.24,
+    "end": 262.4
+  },
+  {
+    "text": "sun",
+    "start": 262.4,
+    "end": 262.7
+  },
+  {
+    "text": "for",
+    "start": 262.7,
+    "end": 262.96
+  },
+  {
+    "text": "several",
+    "start": 262.96,
+    "end": 263.3
+  },
+  {
+    "text": "more",
+    "start": 263.3,
+    "end": 263.6
+  },
+  {
+    "text": "minutes.",
+    "start": 263.6,
+    "end": 263.86
+  },
+  {
+    "text": "Jupiter",
+    "start": 264.34,
+    "end": 264.58
+  },
+  {
+    "text": "waits",
+    "start": 264.58,
+    "end": 265.66
+  },
+  {
+    "text": "much",
+    "start": 265.66,
+    "end": 266.4
+  },
+  {
+    "text": "longer.",
+    "start": 266.4,
+    "end": 266.9
+  },
+  {
+    "text": "Saturn",
+    "start": 267.76,
+    "end": 268.24
+  },
+  {
+    "text": "longer",
+    "start": 268.24,
+    "end": 268.96
+  },
+  {
+    "text": "still.",
+    "start": 268.96,
+    "end": 269.36
+  },
+  {
+    "text": "The",
+    "start": 270.26,
+    "end": 270.52
+  },
+  {
+    "text": "solar",
+    "start": 270.52,
+    "end": 270.7
+  },
+  {
+    "text": "system",
+    "start": 270.7,
+    "end": 271.0
+  },
+  {
+    "text": "does",
+    "start": 271.0,
+    "end": 271.32
+  },
+  {
+    "text": "not",
+    "start": 271.32,
+    "end": 271.66
+  },
+  {
+    "text": "break",
+    "start": 271.66,
+    "end": 272.02
+  },
+  {
+    "text": "all",
+    "start": 272.02,
+    "end": 272.34
+  },
+  {
+    "text": "at",
+    "start": 272.34,
+    "end": 272.52
+  },
+  {
+    "text": "once.",
+    "start": 272.52,
+    "end": 272.8
+  },
+  {
+    "text": "It",
+    "start": 273.62,
+    "end": 273.96
+  },
+  {
+    "text": "loses",
+    "start": 273.96,
+    "end": 274.28
+  },
+  {
+    "text": "agreement",
+    "start": 274.28,
+    "end": 274.82
+  },
+  {
+    "text": "in",
+    "start": 274.82,
+    "end": 275.46
+  },
+  {
+    "text": "a",
+    "start": 275.46,
+    "end": 275.58
+  },
+  {
+    "text": "wave.",
+    "start": 275.58,
+    "end": 276.14
+  },
+  {
+    "text": "Like",
+    "start": 276.92,
+    "end": 277.16
+  },
+  {
+    "text": "street",
+    "start": 277.16,
+    "end": 277.62
+  },
+  {
+    "text": "lights",
+    "start": 277.62,
+    "end": 277.88
+  },
+  {
+    "text": "going",
+    "start": 277.88,
+    "end": 278.22
+  },
+  {
+    "text": "out",
+    "start": 278.22,
+    "end": 278.56
+  },
+  {
+    "text": "down",
+    "start": 278.56,
+    "end": 279.04
+  },
+  {
+    "text": "a",
+    "start": 279.04,
+    "end": 279.3
+  },
+  {
+    "text": "highway.",
+    "start": 279.3,
+    "end": 279.8
+  },
+  {
+    "text": "Each",
+    "start": 280.68,
+    "end": 280.98
+  },
+  {
+    "text": "world",
+    "start": 280.98,
+    "end": 281.38
+  },
+  {
+    "text": "obeys",
+    "start": 281.38,
+    "end": 281.96
+  },
+  {
+    "text": "the",
+    "start": 281.96,
+    "end": 282.1
+  },
+  {
+    "text": "last",
+    "start": 282.1,
+    "end": 282.44
+  },
+  {
+    "text": "message",
+    "start": 282.44,
+    "end": 282.96
+  },
+  {
+    "text": "until",
+    "start": 282.96,
+    "end": 283.9
+  },
+  {
+    "text": "the",
+    "start": 283.9,
+    "end": 284.12
+  },
+  {
+    "text": "new",
+    "start": 284.12,
+    "end": 284.34
+  },
+  {
+    "text": "silence",
+    "start": 284.34,
+    "end": 284.84
+  },
+  {
+    "text": "reaches",
+    "start": 284.84,
+    "end": 285.24
+  },
+  {
+    "text": "it.",
+    "start": 285.24,
+    "end": 285.68
+  },
+  {
+    "text": "From",
+    "start": 286.2,
+    "end": 286.54
+  },
+  {
+    "text": "Earth,",
+    "start": 286.54,
+    "end": 287.04
+  },
+  {
+    "text": "the",
+    "start": 287.48,
+    "end": 287.56
+  },
+  {
+    "text": "first",
+    "start": 287.56,
+    "end": 287.78
+  },
+  {
+    "text": "hour",
+    "start": 287.78,
+    "end": 288.1
+  },
+  {
+    "text": "is",
+    "start": 288.1,
+    "end": 288.38
+  },
+  {
+    "text": "not",
+    "start": 288.38,
+    "end": 288.62
+  },
+  {
+    "text": "the",
+    "start": 288.62,
+    "end": 288.82
+  },
+  {
+    "text": "end",
+    "start": 288.82,
+    "end": 289.0
+  },
+  {
+    "text": "of",
+    "start": 289.0,
+    "end": 289.1
+  },
+  {
+    "text": "life.",
+    "start": 289.1,
+    "end": 289.4
+  },
+  {
+    "text": "It",
+    "start": 290.08,
+    "end": 290.24
+  },
+  {
+    "text": "is",
+    "start": 290.24,
+    "end": 290.38
+  },
+  {
+    "text": "the",
+    "start": 290.38,
+    "end": 290.58
+  },
+  {
+    "text": "end",
+    "start": 290.58,
+    "end": 290.92
+  },
+  {
+    "text": "of",
+    "start": 290.92,
+    "end": 291.24
+  },
+  {
+    "text": "normal",
+    "start": 291.24,
+    "end": 291.68
+  },
+  {
+    "text": "meaning.",
+    "start": 291.68,
+    "end": 292.14
+  },
+  {
+    "text": "Clock's",
+    "start": 292.82,
+    "end": 293.4
+  },
+  {
+    "text": "still",
+    "start": 293.4,
+    "end": 293.74
+  },
+  {
+    "text": "tick.",
+    "start": 293.74,
+    "end": 294.06
+  },
+  {
+    "text": "Phone's",
+    "start": 294.72,
+    "end": 295.22
+  },
+  {
+    "text": "still",
+    "start": 295.22,
+    "end": 295.4
+  },
+  {
+    "text": "glow.",
+    "start": 295.4,
+    "end": 295.7
+  },
+  {
+    "text": "Engines",
+    "start": 296.54,
+    "end": 297.04
+  },
+  {
+    "text": "still",
+    "start": 297.04,
+    "end": 297.6
+  },
+  {
+    "text": "run.",
+    "start": 297.6,
+    "end": 297.92
+  },
+  {
+    "text": "People",
+    "start": 298.5,
+    "end": 298.7
+  },
+  {
+    "text": "can",
+    "start": 298.7,
+    "end": 298.94
+  },
+  {
+    "text": "still",
+    "start": 298.94,
+    "end": 299.2
+  },
+  {
+    "text": "breathe.",
+    "start": 299.2,
+    "end": 299.56
+  },
+  {
+    "text": "But",
+    "start": 299.56,
+    "end": 300.26
+  },
+  {
+    "text": "every",
+    "start": 300.26,
+    "end": 300.62
+  },
+  {
+    "text": "system",
+    "start": 300.62,
+    "end": 301.02
+  },
+  {
+    "text": "that",
+    "start": 301.02,
+    "end": 301.28
+  },
+  {
+    "text": "trusted",
+    "start": 301.28,
+    "end": 301.74
+  },
+  {
+    "text": "the",
+    "start": 301.74,
+    "end": 301.96
+  },
+  {
+    "text": "sun",
+    "start": 301.96,
+    "end": 302.34
+  },
+  {
+    "text": "has",
+    "start": 302.34,
+    "end": 302.92
+  },
+  {
+    "text": "lost",
+    "start": 302.92,
+    "end": 303.32
+  },
+  {
+    "text": "its",
+    "start": 303.32,
+    "end": 303.96
+  },
+  {
+    "text": "source.",
+    "start": 303.96,
+    "end": 304.56
+  },
+  {
+    "text": "Solar",
+    "start": 305.32,
+    "end": 305.5
+  },
+  {
+    "text": "panels",
+    "start": 305.5,
+    "end": 305.96
+  },
+  {
+    "text": "fall",
+    "start": 305.96,
+    "end": 306.5
+  },
+  {
+    "text": "silent.",
+    "start": 306.5,
+    "end": 307.06
+  },
+  {
+    "text": "Weather",
+    "start": 308.16,
+    "end": 308.48
+  },
+  {
+    "text": "loses",
+    "start": 308.48,
+    "end": 309.0
+  },
+  {
+    "text": "its",
+    "start": 309.0,
+    "end": 309.3
+  },
+  {
+    "text": "engine.",
+    "start": 309.3,
+    "end": 309.6
+  },
+  {
+    "text": "Photosynthesis",
+    "start": 310.36,
+    "end": 311.24
+  },
+  {
+    "text": "stops",
+    "start": 311.24,
+    "end": 312.32
+  },
+  {
+    "text": "wherever",
+    "start": 312.32,
+    "end": 313.28
+  },
+  {
+    "text": "plants",
+    "start": 313.28,
+    "end": 313.82
+  },
+  {
+    "text": "were",
+    "start": 313.82,
+    "end": 314.0
+  },
+  {
+    "text": "waiting",
+    "start": 314.0,
+    "end": 314.24
+  },
+  {
+    "text": "for",
+    "start": 314.24,
+    "end": 314.46
+  },
+  {
+    "text": "light.",
+    "start": 314.46,
+    "end": 314.8
+  },
+  {
+    "text": "Leaves",
+    "start": 315.56,
+    "end": 316.2
+  },
+  {
+    "text": "stop",
+    "start": 316.2,
+    "end": 316.74
+  },
+  {
+    "text": "making",
+    "start": 316.74,
+    "end": 317.12
+  },
+  {
+    "text": "sugar.",
+    "start": 317.12,
+    "end": 317.66
+  },
+  {
+    "text": "Algae",
+    "start": 318.74,
+    "end": 319.1
+  },
+  {
+    "text": "stop",
+    "start": 319.1,
+    "end": 319.4
+  },
+  {
+    "text": "feeding",
+    "start": 319.4,
+    "end": 319.74
+  },
+  {
+    "text": "the",
+    "start": 319.74,
+    "end": 319.98
+  },
+  {
+    "text": "ocean.",
+    "start": 319.98,
+    "end": 320.28
+  },
+  {
+    "text": "Food",
+    "start": 321.18,
+    "end": 321.32
+  },
+  {
+    "text": "chains",
+    "start": 321.32,
+    "end": 321.66
+  },
+  {
+    "text": "begin",
+    "start": 321.66,
+    "end": 322.26
+  },
+  {
+    "text": "with",
+    "start": 322.26,
+    "end": 322.76
+  },
+  {
+    "text": "tiny",
+    "start": 322.76,
+    "end": 323.24
+  },
+  {
+    "text": "failures.",
+    "start": 323.24,
+    "end": 323.76
+  },
+  {
+    "text": "Then",
+    "start": 324.24,
+    "end": 324.56
+  },
+  {
+    "text": "those",
+    "start": 324.56,
+    "end": 324.92
+  },
+  {
+    "text": "failures",
+    "start": 324.92,
+    "end": 325.46
+  },
+  {
+    "text": "climb.",
+    "start": 325.46,
+    "end": 326.0
+  },
+  {
+    "text": "Farms",
+    "start": 326.76,
+    "end": 327.2
+  },
+  {
+    "text": "become",
+    "start": 327.2,
+    "end": 327.54
+  },
+  {
+    "text": "countdowns.",
+    "start": 327.54,
+    "end": 328.86
+  },
+  {
+    "text": "Greenhouses",
+    "start": 329.3,
+    "end": 330.0
+  },
+  {
+    "text": "become",
+    "start": 330.0,
+    "end": 330.44
+  },
+  {
+    "text": "power",
+    "start": 330.44,
+    "end": 331.04
+  },
+  {
+    "text": "problems.",
+    "start": 331.04,
+    "end": 331.78
+  },
+  {
+    "text": "Cities",
+    "start": 332.42,
+    "end": 332.8
+  },
+  {
+    "text": "become",
+    "start": 332.8,
+    "end": 333.28
+  },
+  {
+    "text": "heat",
+    "start": 333.28,
+    "end": 333.8
+  },
+  {
+    "text": "problems.",
+    "start": 333.8,
+    "end": 334.46
+  },
+  {
+    "text": "The",
+    "start": 334.9,
+    "end": 334.96
+  },
+  {
+    "text": "first",
+    "start": 334.96,
+    "end": 335.22
+  },
+  {
+    "text": "danger",
+    "start": 335.22,
+    "end": 335.64
+  },
+  {
+    "text": "is",
+    "start": 335.64,
+    "end": 335.94
+  },
+  {
+    "text": "not",
+    "start": 335.94,
+    "end": 336.3
+  },
+  {
+    "text": "dramatic.",
+    "start": 336.3,
+    "end": 337.08
+  },
+  {
+    "text": "It",
+    "start": 337.6,
+    "end": 337.74
+  },
+  {
+    "text": "is",
+    "start": 337.74,
+    "end": 337.94
+  },
+  {
+    "text": "logistics.",
+    "start": 337.94,
+    "end": 338.68
+  },
+  {
+    "text": "Warmth,",
+    "start": 339.34,
+    "end": 339.86
+  },
+  {
+    "text": "food,",
+    "start": 340.12,
+    "end": 340.3
+  },
+  {
+    "text": "electricity,",
+    "start": 340.84,
+    "end": 341.38
+  },
+  {
+    "text": "transport,",
+    "start": 342.1,
+    "end": 342.54
+  },
+  {
+    "text": "shelter.",
+    "start": 342.96,
+    "end": 343.4
+  },
+  {
+    "text": "The",
+    "start": 344.16,
+    "end": 344.36
+  },
+  {
+    "text": "cold",
+    "start": 344.36,
+    "end": 344.76
+  },
+  {
+    "text": "begins",
+    "start": 344.76,
+    "end": 345.32
+  },
+  {
+    "text": "as",
+    "start": 345.32,
+    "end": 345.6
+  },
+  {
+    "text": "a",
+    "start": 345.6,
+    "end": 345.74
+  },
+  {
+    "text": "trend.",
+    "start": 345.74,
+    "end": 346.06
+  },
+  {
+    "text": "Then",
+    "start": 346.84,
+    "end": 347.1
+  },
+  {
+    "text": "it",
+    "start": 347.1,
+    "end": 347.22
+  },
+  {
+    "text": "becomes",
+    "start": 347.22,
+    "end": 347.5
+  },
+  {
+    "text": "the",
+    "start": 347.5,
+    "end": 347.78
+  },
+  {
+    "text": "new",
+    "start": 347.78,
+    "end": 347.94
+  },
+  {
+    "text": "climate.",
+    "start": 347.94,
+    "end": 348.38
+  },
+  {
+    "text": "Air",
+    "start": 349.02,
+    "end": 349.16
+  },
+  {
+    "text": "cools.",
+    "start": 349.16,
+    "end": 349.42
+  },
+  {
+    "text": "Soil",
+    "start": 350.28,
+    "end": 350.7
+  },
+  {
+    "text": "cools.",
+    "start": 350.7,
+    "end": 351.2
+  },
+  {
+    "text": "Lakes",
+    "start": 351.84,
+    "end": 352.02
+  },
+  {
+    "text": "skin",
+    "start": 352.02,
+    "end": 352.6
+  },
+  {
+    "text": "over",
+    "start": 352.6,
+    "end": 352.92
+  },
+  {
+    "text": "with",
+    "start": 352.92,
+    "end": 353.22
+  },
+  {
+    "text": "ice.",
+    "start": 353.22,
+    "end": 353.48
+  },
+  {
+    "text": "Oceans",
+    "start": 353.48,
+    "end": 354.4
+  },
+  {
+    "text": "freeze",
+    "start": 354.4,
+    "end": 354.84
+  },
+  {
+    "text": "from",
+    "start": 354.84,
+    "end": 355.26
+  },
+  {
+    "text": "the",
+    "start": 355.26,
+    "end": 355.42
+  },
+  {
+    "text": "top",
+    "start": 355.42,
+    "end": 355.6
+  },
+  {
+    "text": "down.",
+    "start": 355.6,
+    "end": 356.06
+  },
+  {
+    "text": "That",
+    "start": 356.6,
+    "end": 356.88
+  },
+  {
+    "text": "part",
+    "start": 356.88,
+    "end": 357.14
+  },
+  {
+    "text": "matters.",
+    "start": 357.14,
+    "end": 357.62
+  },
+  {
+    "text": "Water",
+    "start": 358.14,
+    "end": 358.5
+  },
+  {
+    "text": "stores",
+    "start": 358.5,
+    "end": 359.46
+  },
+  {
+    "text": "enormous",
+    "start": 359.46,
+    "end": 360.02
+  },
+  {
+    "text": "heat.",
+    "start": 360.02,
+    "end": 360.52
+  },
+  {
+    "text": "The",
+    "start": 361.22,
+    "end": 361.38
+  },
+  {
+    "text": "ocean",
+    "start": 361.38,
+    "end": 361.76
+  },
+  {
+    "text": "is",
+    "start": 361.76,
+    "end": 362.06
+  },
+  {
+    "text": "not",
+    "start": 362.06,
+    "end": 362.26
+  },
+  {
+    "text": "a",
+    "start": 362.26,
+    "end": 362.4
+  },
+  {
+    "text": "puddle",
+    "start": 362.4,
+    "end": 362.76
+  },
+  {
+    "text": "in",
+    "start": 362.76,
+    "end": 363.08
+  },
+  {
+    "text": "a",
+    "start": 363.08,
+    "end": 363.22
+  },
+  {
+    "text": "freezer.",
+    "start": 363.22,
+    "end": 363.58
+  },
+  {
+    "text": "It",
+    "start": 364.24,
+    "end": 364.38
+  },
+  {
+    "text": "is",
+    "start": 364.38,
+    "end": 364.56
+  },
+  {
+    "text": "a",
+    "start": 364.56,
+    "end": 364.76
+  },
+  {
+    "text": "planetary",
+    "start": 364.76,
+    "end": 365.3
+  },
+  {
+    "text": "battery.",
+    "start": 365.3,
+    "end": 366.02
+  },
+  {
+    "text": "For",
+    "start": 366.46,
+    "end": 366.54
+  },
+  {
+    "text": "a",
+    "start": 366.54,
+    "end": 366.66
+  },
+  {
+    "text": "while,",
+    "start": 366.66,
+    "end": 367.06
+  },
+  {
+    "text": "deep",
+    "start": 367.34,
+    "end": 367.98
+  },
+  {
+    "text": "water",
+    "start": 367.98,
+    "end": 368.4
+  },
+  {
+    "text": "keeps",
+    "start": 368.4,
+    "end": 368.72
+  },
+  {
+    "text": "heat",
+    "start": 368.72,
+    "end": 369.3
+  },
+  {
+    "text": "hidden",
+    "start": 369.3,
+    "end": 369.84
+  },
+  {
+    "text": "under",
+    "start": 369.84,
+    "end": 370.14
+  },
+  {
+    "text": "ice.",
+    "start": 370.14,
+    "end": 370.44
+  },
+  {
+    "text": "For",
+    "start": 371.46,
+    "end": 371.58
+  },
+  {
+    "text": "a",
+    "start": 371.58,
+    "end": 371.74
+  },
+  {
+    "text": "while,",
+    "start": 371.74,
+    "end": 372.18
+  },
+  {
+    "text": "Earth",
+    "start": 372.4,
+    "end": 372.66
+  },
+  {
+    "text": "remembers",
+    "start": 372.66,
+    "end": 373.18
+  },
+  {
+    "text": "the",
+    "start": 373.18,
+    "end": 373.46
+  },
+  {
+    "text": "sun.",
+    "start": 373.46,
+    "end": 373.78
+  },
+  {
+    "text": "But",
+    "start": 374.66,
+    "end": 374.92
+  },
+  {
+    "text": "memory",
+    "start": 374.92,
+    "end": 375.48
+  },
+  {
+    "text": "is",
+    "start": 375.48,
+    "end": 375.84
+  },
+  {
+    "text": "not",
+    "start": 375.84,
+    "end": 376.04
+  },
+  {
+    "text": "fuel.",
+    "start": 376.04,
+    "end": 376.42
+  },
+  {
+    "text": "The",
+    "start": 377.26,
+    "end": 377.42
+  },
+  {
+    "text": "battery",
+    "start": 377.42,
+    "end": 377.82
+  },
+  {
+    "text": "is",
+    "start": 377.82,
+    "end": 378.06
+  },
+  {
+    "text": "no",
+    "start": 378.06,
+    "end": 378.28
+  },
+  {
+    "text": "longer",
+    "start": 378.28,
+    "end": 378.62
+  },
+  {
+    "text": "charging.",
+    "start": 378.62,
+    "end": 379.08
+  },
+  {
+    "text": "Clouds",
+    "start": 379.08,
+    "end": 380.48
+  },
+  {
+    "text": "change.",
+    "start": 380.48,
+    "end": 380.78
+  },
+  {
+    "text": "Winds",
+    "start": 381.5,
+    "end": 381.78
+  },
+  {
+    "text": "weaken",
+    "start": 381.78,
+    "end": 382.44
+  },
+  {
+    "text": "and",
+    "start": 382.44,
+    "end": 382.88
+  },
+  {
+    "text": "reorganize.",
+    "start": 382.88,
+    "end": 383.98
+  },
+  {
+    "text": "Rain",
+    "start": 384.54,
+    "end": 384.86
+  },
+  {
+    "text": "loses",
+    "start": 384.86,
+    "end": 385.48
+  },
+  {
+    "text": "its",
+    "start": 385.48,
+    "end": 385.96
+  },
+  {
+    "text": "engine.",
+    "start": 385.96,
+    "end": 386.26
+  },
+  {
+    "text": "Snow",
+    "start": 386.76,
+    "end": 386.96
+  },
+  {
+    "text": "and",
+    "start": 386.96,
+    "end": 387.26
+  },
+  {
+    "text": "ice",
+    "start": 387.26,
+    "end": 387.52
+  },
+  {
+    "text": "spread",
+    "start": 387.52,
+    "end": 388.2
+  },
+  {
+    "text": "over",
+    "start": 388.2,
+    "end": 388.54
+  },
+  {
+    "text": "places",
+    "start": 388.54,
+    "end": 388.96
+  },
+  {
+    "text": "that",
+    "start": 388.96,
+    "end": 389.24
+  },
+  {
+    "text": "used",
+    "start": 389.24,
+    "end": 389.5
+  },
+  {
+    "text": "to",
+    "start": 389.5,
+    "end": 389.78
+  },
+  {
+    "text": "know",
+    "start": 389.78,
+    "end": 389.92
+  },
+  {
+    "text": "seasons.",
+    "start": 389.92,
+    "end": 390.38
+  },
+  {
+    "text": "The",
+    "start": 391.34,
+    "end": 391.5
+  },
+  {
+    "text": "surface",
+    "start": 391.5,
+    "end": 391.88
+  },
+  {
+    "text": "becomes",
+    "start": 391.88,
+    "end": 392.48
+  },
+  {
+    "text": "darker",
+    "start": 392.48,
+    "end": 393.16
+  },
+  {
+    "text": "planet.",
+    "start": 393.16,
+    "end": 393.78
+  },
+  {
+    "text": "Not",
+    "start": 394.58,
+    "end": 394.92
+  },
+  {
+    "text": "dead",
+    "start": 394.92,
+    "end": 395.24
+  },
+  {
+    "text": "instantly.",
+    "start": 395.24,
+    "end": 396.22
+  },
+  {
+    "text": "But",
+    "start": 397.02,
+    "end": 397.18
+  },
+  {
+    "text": "no",
+    "start": 397.18,
+    "end": 397.32
+  },
+  {
+    "text": "longer",
+    "start": 397.32,
+    "end": 397.56
+  },
+  {
+    "text": "friendly",
+    "start": 397.56,
+    "end": 398.02
+  },
+  {
+    "text": "to",
+    "start": 398.02,
+    "end": 398.32
+  },
+  {
+    "text": "open",
+    "start": 398.32,
+    "end": 398.68
+  },
+  {
+    "text": "air",
+    "start": 398.68,
+    "end": 398.92
+  },
+  {
+    "text": "humans.",
+    "start": 398.92,
+    "end": 399.34
+  },
+  {
+    "text": "The",
+    "start": 400.1,
+    "end": 400.26
+  },
+  {
+    "text": "strange",
+    "start": 400.26,
+    "end": 400.62
+  },
+  {
+    "text": "thing",
+    "start": 400.62,
+    "end": 400.98
+  },
+  {
+    "text": "is",
+    "start": 400.98,
+    "end": 401.28
+  },
+  {
+    "text": "that",
+    "start": 401.28,
+    "end": 401.46
+  },
+  {
+    "text": "Earth",
+    "start": 401.46,
+    "end": 401.78
+  },
+  {
+    "text": "still",
+    "start": 401.78,
+    "end": 402.26
+  },
+  {
+    "text": "has",
+    "start": 402.26,
+    "end": 402.56
+  },
+  {
+    "text": "other",
+    "start": 402.56,
+    "end": 402.96
+  },
+  {
+    "text": "heat.",
+    "start": 402.96,
+    "end": 403.28
+  },
+  {
+    "text": "Radioactive",
+    "start": 404.48,
+    "end": 405.16
+  },
+  {
+    "text": "decay",
+    "start": 405.16,
+    "end": 405.6
+  },
+  {
+    "text": "warms",
+    "start": 405.6,
+    "end": 406.66
+  },
+  {
+    "text": "the",
+    "start": 406.66,
+    "end": 406.9
+  },
+  {
+    "text": "deep",
+    "start": 406.9,
+    "end": 407.24
+  },
+  {
+    "text": "interior.",
+    "start": 407.24,
+    "end": 407.84
+  },
+  {
+    "text": "The",
+    "start": 407.84,
+    "end": 408.96
+  },
+  {
+    "text": "core",
+    "start": 408.96,
+    "end": 409.34
+  },
+  {
+    "text": "still",
+    "start": 409.34,
+    "end": 409.78
+  },
+  {
+    "text": "burns",
+    "start": 409.78,
+    "end": 410.1
+  },
+  {
+    "text": "with",
+    "start": 410.1,
+    "end": 410.64
+  },
+  {
+    "text": "leftover",
+    "start": 410.64,
+    "end": 411.26
+  },
+  {
+    "text": "forfation",
+    "start": 411.26,
+    "end": 412.12
+  },
+  {
+    "text": "heat.",
+    "start": 412.12,
+    "end": 412.52
+  },
+  {
+    "text": "Volcano",
+    "start": 413.82,
+    "end": 414.18
+  },
+  {
+    "text": "still",
+    "start": 414.18,
+    "end": 414.48
+  },
+  {
+    "text": "glow.",
+    "start": 414.48,
+    "end": 414.8
+  },
+  {
+    "text": "Hydro",
+    "start": 415.9,
+    "end": 416.2
+  },
+  {
+    "text": "thermal",
+    "start": 416.2,
+    "end": 416.54
+  },
+  {
+    "text": "vents",
+    "start": 416.54,
+    "end": 417.12
+  },
+  {
+    "text": "still",
+    "start": 417.12,
+    "end": 417.58
+  },
+  {
+    "text": "pour",
+    "start": 417.58,
+    "end": 417.96
+  },
+  {
+    "text": "chemistry",
+    "start": 417.96,
+    "end": 418.62
+  },
+  {
+    "text": "into",
+    "start": 418.62,
+    "end": 418.8
+  },
+  {
+    "text": "black",
+    "start": 418.8,
+    "end": 419.0
+  },
+  {
+    "text": "ocean.",
+    "start": 419.0,
+    "end": 419.38
+  },
+  {
+    "text": "Some",
+    "start": 420.4,
+    "end": 420.68
+  },
+  {
+    "text": "microbes",
+    "start": 420.68,
+    "end": 421.18
+  },
+  {
+    "text": "could",
+    "start": 421.18,
+    "end": 421.5
+  },
+  {
+    "text": "survive",
+    "start": 421.5,
+    "end": 421.96
+  },
+  {
+    "text": "far",
+    "start": 421.96,
+    "end": 422.48
+  },
+  {
+    "text": "below",
+    "start": 422.48,
+    "end": 422.86
+  },
+  {
+    "text": "the",
+    "start": 422.86,
+    "end": 423.16
+  },
+  {
+    "text": "frozen",
+    "start": 423.16,
+    "end": 423.5
+  },
+  {
+    "text": "surface.",
+    "start": 423.5,
+    "end": 424.02
+  },
+  {
+    "text": "Some",
+    "start": 424.84,
+    "end": 425.12
+  },
+  {
+    "text": "ecosystems",
+    "start": 425.12,
+    "end": 425.56
+  },
+  {
+    "text": "never",
+    "start": 425.56,
+    "end": 426.28
+  },
+  {
+    "text": "needed",
+    "start": 426.28,
+    "end": 426.82
+  },
+  {
+    "text": "sunlight",
+    "start": 426.82,
+    "end": 427.32
+  },
+  {
+    "text": "directly.",
+    "start": 427.32,
+    "end": 428.1
+  },
+  {
+    "text": "They",
+    "start": 428.62,
+    "end": 428.7
+  },
+  {
+    "text": "needed",
+    "start": 428.7,
+    "end": 428.98
+  },
+  {
+    "text": "chemistry.",
+    "start": 428.98,
+    "end": 429.48
+  },
+  {
+    "text": "Heat,",
+    "start": 430.58,
+    "end": 430.74
+  },
+  {
+    "text": "water,",
+    "start": 431.38,
+    "end": 431.62
+  },
+  {
+    "text": "time.",
+    "start": 432.2,
+    "end": 432.44
+  },
+  {
+    "text": "So",
+    "start": 432.44,
+    "end": 433.42
+  },
+  {
+    "text": "the",
+    "start": 433.42,
+    "end": 433.66
+  },
+  {
+    "text": "vanished",
+    "start": 433.66,
+    "end": 434.02
+  },
+  {
+    "text": "sun",
+    "start": 434.02,
+    "end": 434.64
+  },
+  {
+    "text": "would",
+    "start": 434.64,
+    "end": 435.04
+  },
+  {
+    "text": "not",
+    "start": 435.04,
+    "end": 435.32
+  },
+  {
+    "text": "erase",
+    "start": 435.32,
+    "end": 435.62
+  },
+  {
+    "text": "life",
+    "start": 435.62,
+    "end": 436.2
+  },
+  {
+    "text": "in",
+    "start": 436.2,
+    "end": 436.72
+  },
+  {
+    "text": "one",
+    "start": 436.72,
+    "end": 436.92
+  },
+  {
+    "text": "clean",
+    "start": 436.92,
+    "end": 437.24
+  },
+  {
+    "text": "stroke.",
+    "start": 437.24,
+    "end": 437.68
+  },
+  {
+    "text": "It",
+    "start": 438.24,
+    "end": 438.3
+  },
+  {
+    "text": "would",
+    "start": 438.3,
+    "end": 438.46
+  },
+  {
+    "text": "erase",
+    "start": 438.46,
+    "end": 438.76
+  },
+  {
+    "text": "our",
+    "start": 438.76,
+    "end": 439.06
+  },
+  {
+    "text": "easy",
+    "start": 439.06,
+    "end": 439.36
+  },
+  {
+    "text": "version",
+    "start": 439.36,
+    "end": 439.78
+  },
+  {
+    "text": "of",
+    "start": 439.78,
+    "end": 440.1
+  },
+  {
+    "text": "life.",
+    "start": 440.1,
+    "end": 440.56
+  },
+  {
+    "text": "No",
+    "start": 441.46,
+    "end": 441.58
+  },
+  {
+    "text": "ordinary",
+    "start": 441.58,
+    "end": 442.02
+  },
+  {
+    "text": "farms.",
+    "start": 442.02,
+    "end": 442.74
+  },
+  {
+    "text": "No",
+    "start": 443.58,
+    "end": 443.78
+  },
+  {
+    "text": "easy",
+    "start": 443.78,
+    "end": 444.32
+  },
+  {
+    "text": "outdoor",
+    "start": 444.32,
+    "end": 444.92
+  },
+  {
+    "text": "warmth.",
+    "start": 444.92,
+    "end": 445.48
+  },
+  {
+    "text": "No",
+    "start": 446.2,
+    "end": 446.34
+  },
+  {
+    "text": "reliable",
+    "start": 446.34,
+    "end": 446.82
+  },
+  {
+    "text": "open",
+    "start": 446.82,
+    "end": 447.18
+  },
+  {
+    "text": "skies.",
+    "start": 447.18,
+    "end": 447.56
+  },
+  {
+    "text": "Human",
+    "start": 448.68,
+    "end": 448.9
+  },
+  {
+    "text": "survival",
+    "start": 448.9,
+    "end": 449.42
+  },
+  {
+    "text": "would",
+    "start": 449.42,
+    "end": 449.64
+  },
+  {
+    "text": "move",
+    "start": 449.64,
+    "end": 449.92
+  },
+  {
+    "text": "inward.",
+    "start": 449.92,
+    "end": 450.44
+  },
+  {
+    "text": "Underground.",
+    "start": 451.36,
+    "end": 451.86
+  },
+  {
+    "text": "Under",
+    "start": 452.48,
+    "end": 452.74
+  },
+  {
+    "text": "ice.",
+    "start": 452.74,
+    "end": 453.16
+  },
+  {
+    "text": "Near",
+    "start": 453.9,
+    "end": 454.0
+  },
+  {
+    "text": "geothermal",
+    "start": 454.0,
+    "end": 454.58
+  },
+  {
+    "text": "heat.",
+    "start": 454.58,
+    "end": 454.92
+  },
+  {
+    "text": "Near",
+    "start": 455.48,
+    "end": 455.56
+  },
+  {
+    "text": "reactors.",
+    "start": 455.56,
+    "end": 456.06
+  },
+  {
+    "text": "Near",
+    "start": 456.54,
+    "end": 456.64
+  },
+  {
+    "text": "stored",
+    "start": 456.64,
+    "end": 457.14
+  },
+  {
+    "text": "food.",
+    "start": 457.14,
+    "end": 457.54
+  },
+  {
+    "text": "Near",
+    "start": 458.22,
+    "end": 458.32
+  },
+  {
+    "text": "artificial",
+    "start": 458.32,
+    "end": 458.88
+  },
+  {
+    "text": "light.",
+    "start": 458.88,
+    "end": 459.24
+  },
+  {
+    "text": "Every",
+    "start": 460.24,
+    "end": 460.76
+  },
+  {
+    "text": "bright",
+    "start": 460.76,
+    "end": 461.68
+  },
+  {
+    "text": "room",
+    "start": 461.68,
+    "end": 462.18
+  },
+  {
+    "text": "would",
+    "start": 462.18,
+    "end": 462.42
+  },
+  {
+    "text": "become",
+    "start": 462.42,
+    "end": 462.78
+  },
+  {
+    "text": "a",
+    "start": 462.78,
+    "end": 462.98
+  },
+  {
+    "text": "machine.",
+    "start": 462.98,
+    "end": 463.34
+  },
+  {
+    "text": "Every",
+    "start": 464.08,
+    "end": 464.42
+  },
+  {
+    "text": "greenhouse",
+    "start": 464.42,
+    "end": 464.94
+  },
+  {
+    "text": "would",
+    "start": 464.94,
+    "end": 465.4
+  },
+  {
+    "text": "become",
+    "start": 465.4,
+    "end": 465.76
+  },
+  {
+    "text": "a",
+    "start": 465.76,
+    "end": 465.98
+  },
+  {
+    "text": "promise",
+    "start": 465.98,
+    "end": 466.42
+  },
+  {
+    "text": "you",
+    "start": 466.42,
+    "end": 467.4
+  },
+  {
+    "text": "have",
+    "start": 467.4,
+    "end": 467.64
+  },
+  {
+    "text": "to",
+    "start": 467.64,
+    "end": 467.84
+  },
+  {
+    "text": "power.",
+    "start": 467.84,
+    "end": 468.22
+  },
+  {
+    "text": "Every",
+    "start": 468.98,
+    "end": 469.46
+  },
+  {
+    "text": "meal",
+    "start": 469.46,
+    "end": 469.88
+  },
+  {
+    "text": "would",
+    "start": 469.88,
+    "end": 470.24
+  },
+  {
+    "text": "become",
+    "start": 470.24,
+    "end": 470.58
+  },
+  {
+    "text": "an",
+    "start": 470.58,
+    "end": 470.82
+  },
+  {
+    "text": "engineering",
+    "start": 470.82,
+    "end": 471.48
+  },
+  {
+    "text": "problem.",
+    "start": 471.48,
+    "end": 472.08
+  },
+  {
+    "text": "And",
+    "start": 472.52,
+    "end": 472.62
+  },
+  {
+    "text": "the",
+    "start": 472.62,
+    "end": 472.76
+  },
+  {
+    "text": "hardest",
+    "start": 472.76,
+    "end": 473.14
+  },
+  {
+    "text": "part",
+    "start": 473.14,
+    "end": 473.56
+  },
+  {
+    "text": "would",
+    "start": 473.56,
+    "end": 474.26
+  },
+  {
+    "text": "be",
+    "start": 474.26,
+    "end": 474.5
+  },
+  {
+    "text": "scale.",
+    "start": 474.5,
+    "end": 475.0
+  },
+  {
+    "text": "A",
+    "start": 476.02,
+    "end": 476.12
+  },
+  {
+    "text": "few",
+    "start": 476.12,
+    "end": 476.36
+  },
+  {
+    "text": "people",
+    "start": 476.36,
+    "end": 476.72
+  },
+  {
+    "text": "can",
+    "start": 476.72,
+    "end": 476.94
+  },
+  {
+    "text": "survive",
+    "start": 476.94,
+    "end": 477.34
+  },
+  {
+    "text": "strange",
+    "start": 477.34,
+    "end": 477.9
+  },
+  {
+    "text": "places.",
+    "start": 477.9,
+    "end": 478.44
+  },
+  {
+    "text": "A",
+    "start": 479.26,
+    "end": 479.42
+  },
+  {
+    "text": "civilization",
+    "start": 479.42,
+    "end": 479.92
+  },
+  {
+    "text": "needs",
+    "start": 479.92,
+    "end": 480.6
+  },
+  {
+    "text": "supply",
+    "start": 480.6,
+    "end": 481.1
+  },
+  {
+    "text": "chains.",
+    "start": 481.1,
+    "end": 481.66
+  },
+  {
+    "text": "A",
+    "start": 482.14,
+    "end": 482.24
+  },
+  {
+    "text": "civilization",
+    "start": 482.24,
+    "end": 482.66
+  },
+  {
+    "text": "needs",
+    "start": 482.66,
+    "end": 483.5
+  },
+  {
+    "text": "spare",
+    "start": 483.5,
+    "end": 484.0
+  },
+  {
+    "text": "parts.",
+    "start": 484.0,
+    "end": 484.42
+  },
+  {
+    "text": "Seeds.",
+    "start": 485.24,
+    "end": 485.6
+  },
+  {
+    "text": "Medicine.",
+    "start": 485.9,
+    "end": 486.22
+  },
+  {
+    "text": "Clean",
+    "start": 486.8,
+    "end": 487.0
+  },
+  {
+    "text": "water.",
+    "start": 487.0,
+    "end": 487.44
+  },
+  {
+    "text": "People",
+    "start": 488.2,
+    "end": 488.6
+  },
+  {
+    "text": "who",
+    "start": 488.6,
+    "end": 488.86
+  },
+  {
+    "text": "can",
+    "start": 488.86,
+    "end": 489.04
+  },
+  {
+    "text": "sleep",
+    "start": 489.04,
+    "end": 489.32
+  },
+  {
+    "text": "without",
+    "start": 489.32,
+    "end": 489.84
+  },
+  {
+    "text": "panic.",
+    "start": 489.84,
+    "end": 490.28
+  },
+  {
+    "text": "The",
+    "start": 490.84,
+    "end": 490.96
+  },
+  {
+    "text": "sun",
+    "start": 490.96,
+    "end": 491.28
+  },
+  {
+    "text": "is",
+    "start": 491.28,
+    "end": 491.52
+  },
+  {
+    "text": "not",
+    "start": 491.52,
+    "end": 491.78
+  },
+  {
+    "text": "just",
+    "start": 491.78,
+    "end": 492.08
+  },
+  {
+    "text": "a",
+    "start": 492.08,
+    "end": 492.32
+  },
+  {
+    "text": "lamp.",
+    "start": 492.32,
+    "end": 492.62
+  },
+  {
+    "text": "It",
+    "start": 493.56,
+    "end": 493.68
+  },
+  {
+    "text": "is",
+    "start": 493.68,
+    "end": 493.82
+  },
+  {
+    "text": "the",
+    "start": 493.82,
+    "end": 494.06
+  },
+  {
+    "text": "silent",
+    "start": 494.06,
+    "end": 494.5
+  },
+  {
+    "text": "organizer",
+    "start": 494.5,
+    "end": 495.22
+  },
+  {
+    "text": "of",
+    "start": 495.22,
+    "end": 495.5
+  },
+  {
+    "text": "almost",
+    "start": 495.5,
+    "end": 495.88
+  },
+  {
+    "text": "everything.",
+    "start": 495.88,
+    "end": 496.62
+  },
+  {
+    "text": "It",
+    "start": 497.08,
+    "end": 497.16
+  },
+  {
+    "text": "schedules",
+    "start": 497.16,
+    "end": 497.62
+  },
+  {
+    "text": "weather.",
+    "start": 497.62,
+    "end": 498.14
+  },
+  {
+    "text": "Feeds,",
+    "start": 499.08,
+    "end": 499.56
+  },
+  {
+    "text": "crops,",
+    "start": 499.68,
+    "end": 499.9
+  },
+  {
+    "text": "moves",
+    "start": 500.28,
+    "end": 500.4
+  },
+  {
+    "text": "water.",
+    "start": 500.4,
+    "end": 500.92
+  },
+  {
+    "text": "Stabilizes",
+    "start": 501.7,
+    "end": 502.48
+  },
+  {
+    "text": "climate.",
+    "start": 502.48,
+    "end": 502.96
+  },
+  {
+    "text": "Shapes",
+    "start": 503.56,
+    "end": 504.02
+  },
+  {
+    "text": "the",
+    "start": 504.02,
+    "end": 504.2
+  },
+  {
+    "text": "calendar.",
+    "start": 504.2,
+    "end": 504.66
+  },
+  {
+    "text": "And",
+    "start": 505.22,
+    "end": 505.36
+  },
+  {
+    "text": "gives",
+    "start": 505.36,
+    "end": 505.62
+  },
+  {
+    "text": "every",
+    "start": 505.62,
+    "end": 506.32
+  },
+  {
+    "text": "morning",
+    "start": 506.32,
+    "end": 507.16
+  },
+  {
+    "text": "the",
+    "start": 507.16,
+    "end": 507.58
+  },
+  {
+    "text": "feeling",
+    "start": 507.58,
+    "end": 507.9
+  },
+  {
+    "text": "that",
+    "start": 507.9,
+    "end": 508.14
+  },
+  {
+    "text": "the",
+    "start": 508.14,
+    "end": 508.28
+  },
+  {
+    "text": "world",
+    "start": 508.28,
+    "end": 508.54
+  },
+  {
+    "text": "is",
+    "start": 508.54,
+    "end": 508.76
+  },
+  {
+    "text": "still",
+    "start": 508.76,
+    "end": 509.16
+  },
+  {
+    "text": "participating.",
+    "start": 509.16,
+    "end": 510.04
+  },
+  {
+    "text": "Remove",
+    "start": 511.12,
+    "end": 511.5
+  },
+  {
+    "text": "it.",
+    "start": 511.5,
+    "end": 511.8
+  },
+  {
+    "text": "And",
+    "start": 512.18,
+    "end": 512.66
+  },
+  {
+    "text": "the",
+    "start": 512.66,
+    "end": 513.14
+  },
+  {
+    "text": "universe",
+    "start": 513.14,
+    "end": 513.72
+  },
+  {
+    "text": "does",
+    "start": 513.72,
+    "end": 514.18
+  },
+  {
+    "text": "not",
+    "start": 514.18,
+    "end": 514.58
+  },
+  {
+    "text": "rage.",
+    "start": 514.58,
+    "end": 515.18
+  },
+  {
+    "text": "It",
+    "start": 515.18,
+    "end": 516.04
+  },
+  {
+    "text": "simply",
+    "start": 516.04,
+    "end": 516.5
+  },
+  {
+    "text": "stops",
+    "start": 516.5,
+    "end": 517.06
+  },
+  {
+    "text": "answering.",
+    "start": 517.06,
+    "end": 518.14
+  },
+  {
+    "text": "That",
+    "start": 518.72,
+    "end": 518.92
+  },
+  {
+    "text": "is",
+    "start": 518.92,
+    "end": 519.1
+  },
+  {
+    "text": "more",
+    "start": 519.1,
+    "end": 519.48
+  },
+  {
+    "text": "frightening.",
+    "start": 519.48,
+    "end": 519.96
+  },
+  {
+    "text": "Because",
+    "start": 520.86,
+    "end": 521.4
+  },
+  {
+    "text": "the",
+    "start": 521.4,
+    "end": 521.98
+  },
+  {
+    "text": "first",
+    "start": 521.98,
+    "end": 522.36
+  },
+  {
+    "text": "eight",
+    "start": 522.36,
+    "end": 523.04
+  },
+  {
+    "text": "minutes",
+    "start": 523.04,
+    "end": 523.42
+  },
+  {
+    "text": "would",
+    "start": 523.42,
+    "end": 523.72
+  },
+  {
+    "text": "feel",
+    "start": 523.72,
+    "end": 524.08
+  },
+  {
+    "text": "peaceful.",
+    "start": 524.08,
+    "end": 524.72
+  },
+  {
+    "text": "You",
+    "start": 525.66,
+    "end": 525.92
+  },
+  {
+    "text": "could",
+    "start": 525.92,
+    "end": 526.08
+  },
+  {
+    "text": "be",
+    "start": 526.08,
+    "end": 526.24
+  },
+  {
+    "text": "standing",
+    "start": 526.24,
+    "end": 526.58
+  },
+  {
+    "text": "outside.",
+    "start": 526.58,
+    "end": 527.08
+  },
+  {
+    "text": "You",
+    "start": 527.96,
+    "end": 528.14
+  },
+  {
+    "text": "could",
+    "start": 528.14,
+    "end": 528.28
+  },
+  {
+    "text": "feel",
+    "start": 528.28,
+    "end": 528.58
+  },
+  {
+    "text": "warmth",
+    "start": 528.58,
+    "end": 529.06
+  },
+  {
+    "text": "on",
+    "start": 529.06,
+    "end": 529.3
+  },
+  {
+    "text": "your",
+    "start": 529.3,
+    "end": 529.46
+  },
+  {
+    "text": "skin.",
+    "start": 529.46,
+    "end": 529.84
+  },
+  {
+    "text": "You",
+    "start": 530.96,
+    "end": 531.12
+  },
+  {
+    "text": "could",
+    "start": 531.12,
+    "end": 531.28
+  },
+  {
+    "text": "look",
+    "start": 531.28,
+    "end": 531.58
+  },
+  {
+    "text": "at",
+    "start": 531.58,
+    "end": 531.76
+  },
+  {
+    "text": "a",
+    "start": 531.76,
+    "end": 531.84
+  },
+  {
+    "text": "golden",
+    "start": 531.84,
+    "end": 532.12
+  },
+  {
+    "text": "sun.",
+    "start": 532.12,
+    "end": 532.62
+  },
+  {
+    "text": "And",
+    "start": 533.26,
+    "end": 533.38
+  },
+  {
+    "text": "that",
+    "start": 533.38,
+    "end": 533.52
+  },
+  {
+    "text": "sun",
+    "start": 533.52,
+    "end": 533.9
+  },
+  {
+    "text": "would",
+    "start": 533.9,
+    "end": 534.14
+  },
+  {
+    "text": "be",
+    "start": 534.14,
+    "end": 534.48
+  },
+  {
+    "text": "a",
+    "start": 534.48,
+    "end": 534.98
+  },
+  {
+    "text": "ghost.",
+    "start": 534.98,
+    "end": 535.32
+  },
+  {
+    "text": "A",
+    "start": 536.46,
+    "end": 536.64
+  },
+  {
+    "text": "message",
+    "start": 536.64,
+    "end": 536.94
+  },
+  {
+    "text": "from",
+    "start": 536.94,
+    "end": 537.14
+  },
+  {
+    "text": "a",
+    "start": 537.14,
+    "end": 537.28
+  },
+  {
+    "text": "star",
+    "start": 537.28,
+    "end": 537.66
+  },
+  {
+    "text": "that",
+    "start": 537.66,
+    "end": 538.02
+  },
+  {
+    "text": "was",
+    "start": 538.02,
+    "end": 538.14
+  },
+  {
+    "text": "already",
+    "start": 538.14,
+    "end": 538.8
+  },
+  {
+    "text": "gone.",
+    "start": 538.8,
+    "end": 539.26
+  },
+  {
+    "text": "Space",
+    "start": 540.06,
+    "end": 540.54
+  },
+  {
+    "text": "does",
+    "start": 540.54,
+    "end": 541.1
+  },
+  {
+    "text": "this",
+    "start": 541.1,
+    "end": 541.34
+  },
+  {
+    "text": "all",
+    "start": 541.34,
+    "end": 541.54
+  },
+  {
+    "text": "the",
+    "start": 541.54,
+    "end": 541.68
+  },
+  {
+    "text": "time.",
+    "start": 541.68,
+    "end": 542.08
+  },
+  {
+    "text": "It",
+    "start": 542.08,
+    "end": 542.84
+  },
+  {
+    "text": "turns",
+    "start": 542.84,
+    "end": 543.04
+  },
+  {
+    "text": "reality",
+    "start": 543.04,
+    "end": 543.66
+  },
+  {
+    "text": "into",
+    "start": 543.66,
+    "end": 544.06
+  },
+  {
+    "text": "mail.",
+    "start": 544.06,
+    "end": 544.4
+  },
+  {
+    "text": "The",
+    "start": 545.16,
+    "end": 545.34
+  },
+  {
+    "text": "moon",
+    "start": 545.34,
+    "end": 545.58
+  },
+  {
+    "text": "we",
+    "start": 545.58,
+    "end": 545.78
+  },
+  {
+    "text": "see",
+    "start": 545.78,
+    "end": 546.02
+  },
+  {
+    "text": "is",
+    "start": 546.02,
+    "end": 546.38
+  },
+  {
+    "text": "a",
+    "start": 546.38,
+    "end": 546.48
+  },
+  {
+    "text": "little",
+    "start": 546.48,
+    "end": 546.7
+  },
+  {
+    "text": "late.",
+    "start": 546.7,
+    "end": 547.02
+  },
+  {
+    "text": "The",
+    "start": 548.1,
+    "end": 548.24
+  },
+  {
+    "text": "sun",
+    "start": 548.24,
+    "end": 548.64
+  },
+  {
+    "text": "is",
+    "start": 548.64,
+    "end": 549.02
+  },
+  {
+    "text": "eight",
+    "start": 549.02,
+    "end": 549.38
+  },
+  {
+    "text": "minutes",
+    "start": 549.38,
+    "end": 549.7
+  },
+  {
+    "text": "late.",
+    "start": 549.7,
+    "end": 550.1
+  },
+  {
+    "text": "Jupiter",
+    "start": 550.9,
+    "end": 551.2
+  },
+  {
+    "text": "is",
+    "start": 551.2,
+    "end": 551.64
+  },
+  {
+    "text": "tens",
+    "start": 551.64,
+    "end": 552.0
+  },
+  {
+    "text": "of",
+    "start": 552.0,
+    "end": 552.3
+  },
+  {
+    "text": "minutes",
+    "start": 552.3,
+    "end": 552.58
+  },
+  {
+    "text": "late.",
+    "start": 552.58,
+    "end": 553.14
+  },
+  {
+    "text": "Nearby",
+    "start": 553.84,
+    "end": 554.38
+  },
+  {
+    "text": "stars",
+    "start": 554.38,
+    "end": 554.96
+  },
+  {
+    "text": "are",
+    "start": 554.96,
+    "end": 555.46
+  },
+  {
+    "text": "years",
+    "start": 555.46,
+    "end": 555.86
+  },
+  {
+    "text": "late.",
+    "start": 555.86,
+    "end": 556.34
+  },
+  {
+    "text": "Distant",
+    "start": 557.04,
+    "end": 557.48
+  },
+  {
+    "text": "galaxies",
+    "start": 557.48,
+    "end": 558.02
+  },
+  {
+    "text": "are",
+    "start": 558.02,
+    "end": 558.42
+  },
+  {
+    "text": "millions",
+    "start": 558.42,
+    "end": 559.02
+  },
+  {
+    "text": "or",
+    "start": 559.02,
+    "end": 559.48
+  },
+  {
+    "text": "billions",
+    "start": 559.48,
+    "end": 559.96
+  },
+  {
+    "text": "of",
+    "start": 559.96,
+    "end": 560.24
+  },
+  {
+    "text": "years",
+    "start": 560.24,
+    "end": 560.48
+  },
+  {
+    "text": "late.",
+    "start": 560.48,
+    "end": 560.88
+  },
+  {
+    "text": "The",
+    "start": 561.82,
+    "end": 562.06
+  },
+  {
+    "text": "farther",
+    "start": 562.06,
+    "end": 562.38
+  },
+  {
+    "text": "you",
+    "start": 562.38,
+    "end": 562.64
+  },
+  {
+    "text": "look,",
+    "start": 562.64,
+    "end": 562.94
+  },
+  {
+    "text": "the",
+    "start": 563.48,
+    "end": 563.86
+  },
+  {
+    "text": "older",
+    "start": 563.86,
+    "end": 564.2
+  },
+  {
+    "text": "the",
+    "start": 564.2,
+    "end": 564.38
+  },
+  {
+    "text": "universe",
+    "start": 564.38,
+    "end": 564.82
+  },
+  {
+    "text": "becomes.",
+    "start": 564.82,
+    "end": 565.22
+  },
+  {
+    "text": "So",
+    "start": 566.46,
+    "end": 566.74
+  },
+  {
+    "text": "a",
+    "start": 566.74,
+    "end": 566.9
+  },
+  {
+    "text": "vanished",
+    "start": 566.9,
+    "end": 567.3
+  },
+  {
+    "text": "sun",
+    "start": 567.3,
+    "end": 567.98
+  },
+  {
+    "text": "is",
+    "start": 567.98,
+    "end": 568.34
+  },
+  {
+    "text": "not",
+    "start": 568.34,
+    "end": 568.58
+  },
+  {
+    "text": "just",
+    "start": 568.58,
+    "end": 568.8
+  },
+  {
+    "text": "a",
+    "start": 568.8,
+    "end": 568.98
+  },
+  {
+    "text": "disaster",
+    "start": 568.98,
+    "end": 569.4
+  },
+  {
+    "text": "story.",
+    "start": 569.4,
+    "end": 570.14
+  },
+  {
+    "text": "It",
+    "start": 570.14,
+    "end": 571.2
+  },
+  {
+    "text": "is",
+    "start": 571.2,
+    "end": 571.3
+  },
+  {
+    "text": "a",
+    "start": 571.3,
+    "end": 571.4
+  },
+  {
+    "text": "lesson",
+    "start": 571.4,
+    "end": 571.66
+  },
+  {
+    "text": "about",
+    "start": 571.66,
+    "end": 571.9
+  },
+  {
+    "text": "every",
+    "start": 571.9,
+    "end": 572.2
+  },
+  {
+    "text": "sky",
+    "start": 572.2,
+    "end": 572.62
+  },
+  {
+    "text": "you",
+    "start": 572.62,
+    "end": 572.92
+  },
+  {
+    "text": "have",
+    "start": 572.92,
+    "end": 573.08
+  },
+  {
+    "text": "ever",
+    "start": 573.08,
+    "end": 573.32
+  },
+  {
+    "text": "seen.",
+    "start": 573.32,
+    "end": 573.74
+  },
+  {
+    "text": "You",
+    "start": 574.2,
+    "end": 574.36
+  },
+  {
+    "text": "are",
+    "start": 574.36,
+    "end": 574.46
+  },
+  {
+    "text": "not",
+    "start": 574.46,
+    "end": 574.62
+  },
+  {
+    "text": "watching",
+    "start": 574.62,
+    "end": 575.08
+  },
+  {
+    "text": "the",
+    "start": 575.08,
+    "end": 575.36
+  },
+  {
+    "text": "universe",
+    "start": 575.36,
+    "end": 575.94
+  },
+  {
+    "text": "happen",
+    "start": 575.94,
+    "end": 576.5
+  },
+  {
+    "text": "live.",
+    "start": 576.5,
+    "end": 576.9
+  },
+  {
+    "text": "You",
+    "start": 577.74,
+    "end": 577.98
+  },
+  {
+    "text": "are",
+    "start": 577.98,
+    "end": 578.12
+  },
+  {
+    "text": "watching",
+    "start": 578.12,
+    "end": 578.64
+  },
+  {
+    "text": "messages",
+    "start": 578.64,
+    "end": 579.3
+  },
+  {
+    "text": "arrive.",
+    "start": 579.3,
+    "end": 580.04
+  },
+  {
+    "text": "Some",
+    "start": 580.98,
+    "end": 581.28
+  },
+  {
+    "text": "messages",
+    "start": 581.28,
+    "end": 581.76
+  },
+  {
+    "text": "are",
+    "start": 581.76,
+    "end": 582.2
+  },
+  {
+    "text": "warm",
+    "start": 582.2,
+    "end": 582.88
+  },
+  {
+    "text": "enough",
+    "start": 582.88,
+    "end": 583.24
+  },
+  {
+    "text": "to",
+    "start": 583.24,
+    "end": 583.56
+  },
+  {
+    "text": "grow",
+    "start": 583.56,
+    "end": 583.8
+  },
+  {
+    "text": "forests,",
+    "start": 583.8,
+    "end": 584.28
+  },
+  {
+    "text": "or",
+    "start": 584.52,
+    "end": 584.64
+  },
+  {
+    "text": "some",
+    "start": 584.64,
+    "end": 585.94
+  },
+  {
+    "text": "are",
+    "start": 585.94,
+    "end": 586.12
+  },
+  {
+    "text": "old",
+    "start": 586.12,
+    "end": 586.32
+  },
+  {
+    "text": "enough",
+    "start": 586.32,
+    "end": 586.56
+  },
+  {
+    "text": "to",
+    "start": 586.56,
+    "end": 586.78
+  },
+  {
+    "text": "be",
+    "start": 586.78,
+    "end": 586.96
+  },
+  {
+    "text": "fossils",
+    "start": 586.96,
+    "end": 587.42
+  },
+  {
+    "text": "made",
+    "start": 587.42,
+    "end": 587.76
+  },
+  {
+    "text": "of",
+    "start": 587.76,
+    "end": 587.92
+  },
+  {
+    "text": "light.",
+    "start": 587.92,
+    "end": 588.16
+  },
+  {
+    "text": "Some",
+    "start": 588.98,
+    "end": 589.22
+  },
+  {
+    "text": "arrive",
+    "start": 589.22,
+    "end": 589.5
+  },
+  {
+    "text": "too",
+    "start": 589.5,
+    "end": 589.72
+  },
+  {
+    "text": "late",
+    "start": 589.72,
+    "end": 589.88
+  },
+  {
+    "text": "to",
+    "start": 589.88,
+    "end": 590.1
+  },
+  {
+    "text": "save",
+    "start": 590.1,
+    "end": 590.54
+  },
+  {
+    "text": "anyone.",
+    "start": 590.54,
+    "end": 591.02
+  },
+  {
+    "text": "The",
+    "start": 591.96,
+    "end": 592.24
+  },
+  {
+    "text": "sun",
+    "start": 592.24,
+    "end": 592.64
+  },
+  {
+    "text": "could",
+    "start": 592.64,
+    "end": 593.7
+  },
+  {
+    "text": "be",
+    "start": 593.7,
+    "end": 593.94
+  },
+  {
+    "text": "gone.",
+    "start": 593.94,
+    "end": 594.34
+  },
+  {
+    "text": "And",
+    "start": 594.96,
+    "end": 595.04
+  },
+  {
+    "text": "for",
+    "start": 595.04,
+    "end": 595.22
+  },
+  {
+    "text": "eight",
+    "start": 595.22,
+    "end": 595.54
+  },
+  {
+    "text": "minutes,",
+    "start": 595.54,
+    "end": 595.94
+  },
+  {
+    "text": "Earth",
+    "start": 596.7,
+    "end": 596.9
+  },
+  {
+    "text": "would",
+    "start": 596.9,
+    "end": 597.26
+  },
+  {
+    "text": "still",
+    "start": 597.26,
+    "end": 597.66
+  },
+  {
+    "text": "be",
+    "start": 597.66,
+    "end": 597.94
+  },
+  {
+    "text": "beautiful.",
+    "start": 597.94,
+    "end": 598.6
+  },
+  {
+    "text": "That",
+    "start": 598.6,
+    "end": 599.68
+  },
+  {
+    "text": "beauty",
+    "start": 599.68,
+    "end": 600.08
+  },
+  {
+    "text": "is",
+    "start": 600.08,
+    "end": 600.48
+  },
+  {
+    "text": "the",
+    "start": 600.48,
+    "end": 600.68
+  },
+  {
+    "text": "unsettling",
+    "start": 600.68,
+    "end": 601.5
+  },
+  {
+    "text": "part.",
+    "start": 601.5,
+    "end": 601.9
+  },
+  {
+    "text": "The",
+    "start": 602.6,
+    "end": 602.82
+  },
+  {
+    "text": "delay",
+    "start": 602.82,
+    "end": 603.16
+  },
+  {
+    "text": "is",
+    "start": 603.16,
+    "end": 603.38
+  },
+  {
+    "text": "not",
+    "start": 603.38,
+    "end": 603.56
+  },
+  {
+    "text": "a",
+    "start": 603.56,
+    "end": 603.74
+  },
+  {
+    "text": "technical",
+    "start": 603.74,
+    "end": 604.2
+  },
+  {
+    "text": "detail.",
+    "start": 604.2,
+    "end": 604.86
+  },
+  {
+    "text": "It",
+    "start": 605.86,
+    "end": 606.14
+  },
+  {
+    "text": "is",
+    "start": 606.14,
+    "end": 606.4
+  },
+  {
+    "text": "the",
+    "start": 606.4,
+    "end": 606.58
+  },
+  {
+    "text": "main",
+    "start": 606.58,
+    "end": 606.88
+  },
+  {
+    "text": "character.",
+    "start": 606.88,
+    "end": 607.52
+  },
+  {
+    "text": "It",
+    "start": 608.36,
+    "end": 608.58
+  },
+  {
+    "text": "is",
+    "start": 608.58,
+    "end": 608.82
+  },
+  {
+    "text": "why",
+    "start": 608.82,
+    "end": 609.08
+  },
+  {
+    "text": "the",
+    "start": 609.08,
+    "end": 609.28
+  },
+  {
+    "text": "world",
+    "start": 609.28,
+    "end": 609.68
+  },
+  {
+    "text": "can",
+    "start": 609.68,
+    "end": 610.02
+  },
+  {
+    "text": "look",
+    "start": 610.02,
+    "end": 610.34
+  },
+  {
+    "text": "normal",
+    "start": 610.34,
+    "end": 611.0
+  },
+  {
+    "text": "after",
+    "start": 611.0,
+    "end": 611.52
+  },
+  {
+    "text": "the",
+    "start": 611.52,
+    "end": 611.7
+  },
+  {
+    "text": "truth",
+    "start": 611.7,
+    "end": 612.06
+  },
+  {
+    "text": "has",
+    "start": 612.06,
+    "end": 612.34
+  },
+  {
+    "text": "changed.",
+    "start": 612.34,
+    "end": 613.06
+  },
+  {
+    "text": "And",
+    "start": 613.78,
+    "end": 614.2
+  },
+  {
+    "text": "if",
+    "start": 614.2,
+    "end": 614.54
+  },
+  {
+    "text": "even",
+    "start": 614.54,
+    "end": 615.34
+  },
+  {
+    "text": "sunlight",
+    "start": 615.34,
+    "end": 615.88
+  },
+  {
+    "text": "cannot",
+    "start": 615.88,
+    "end": 616.34
+  },
+  {
+    "text": "tell",
+    "start": 616.34,
+    "end": 616.68
+  },
+  {
+    "text": "us",
+    "start": 616.68,
+    "end": 616.88
+  },
+  {
+    "text": "now",
+    "start": 616.88,
+    "end": 617.22
+  },
+  {
+    "text": "immediately,",
+    "start": 617.22,
+    "end": 617.82
+  },
+  {
+    "text": "then",
+    "start": 618.5,
+    "end": 618.8
+  },
+  {
+    "text": "what",
+    "start": 618.8,
+    "end": 619.54
+  },
+  {
+    "text": "does",
+    "start": 619.54,
+    "end": 619.72
+  },
+  {
+    "text": "now",
+    "start": 619.72,
+    "end": 619.92
+  },
+  {
+    "text": "mean",
+    "start": 619.92,
+    "end": 620.12
+  },
+  {
+    "text": "across",
+    "start": 620.12,
+    "end": 620.46
+  },
+  {
+    "text": "space?",
+    "start": 620.46,
+    "end": 620.98
+  },
+  {
+    "text": "Can",
+    "start": 622.04,
+    "end": 622.36
+  },
+  {
+    "text": "there",
+    "start": 622.36,
+    "end": 622.58
+  },
+  {
+    "text": "be",
+    "start": 622.58,
+    "end": 622.86
+  },
+  {
+    "text": "one",
+    "start": 622.86,
+    "end": 623.32
+  },
+  {
+    "text": "shared",
+    "start": 623.32,
+    "end": 623.98
+  },
+  {
+    "text": "present",
+    "start": 623.98,
+    "end": 624.58
+  },
+  {
+    "text": "for",
+    "start": 624.58,
+    "end": 625.04
+  },
+  {
+    "text": "the",
+    "start": 625.04,
+    "end": 625.28
+  },
+  {
+    "text": "universe?",
+    "start": 625.28,
+    "end": 625.7
+  },
+  {
+    "text": "Or",
+    "start": 625.7,
+    "end": 626.54
+  },
+  {
+    "text": "is",
+    "start": 626.54,
+    "end": 626.94
+  },
+  {
+    "text": "every",
+    "start": 626.94,
+    "end": 627.4
+  },
+  {
+    "text": "observer",
+    "start": 627.4,
+    "end": 627.94
+  },
+  {
+    "text": "living",
+    "start": 627.94,
+    "end": 628.18
+  },
+  {
+    "text": "inside",
+    "start": 628.18,
+    "end": 628.58
+  },
+  {
+    "text": "a",
+    "start": 628.58,
+    "end": 628.96
+  },
+  {
+    "text": "different",
+    "start": 628.96,
+    "end": 629.32
+  },
+  {
+    "text": "arrival",
+    "start": 629.32,
+    "end": 630.02
+  },
+  {
+    "text": "time?",
+    "start": 630.02,
+    "end": 630.42
+  },
+  {
+    "text": "The",
+    "start": 631.36,
+    "end": 631.46
+  },
+  {
+    "text": "black",
+    "start": 631.46,
+    "end": 631.8
+  },
+  {
+    "text": "hole",
+    "start": 631.8,
+    "end": 632.2
+  },
+  {
+    "text": "showed",
+    "start": 632.2,
+    "end": 632.72
+  },
+  {
+    "text": "one",
+    "start": 632.72,
+    "end": 633.22
+  },
+  {
+    "text": "side",
+    "start": 633.22,
+    "end": 633.74
+  },
+  {
+    "text": "of",
+    "start": 633.74,
+    "end": 633.88
+  },
+  {
+    "text": "that",
+    "start": 633.88,
+    "end": 634.02
+  },
+  {
+    "text": "problem.",
+    "start": 634.02,
+    "end": 634.48
+  },
+  {
+    "text": "The",
+    "start": 635.06,
+    "end": 635.24
+  },
+  {
+    "text": "vanished",
+    "start": 635.24,
+    "end": 635.62
+  },
+  {
+    "text": "sun",
+    "start": 635.62,
+    "end": 636.34
+  },
+  {
+    "text": "shows",
+    "start": 636.34,
+    "end": 637.02
+  },
+  {
+    "text": "another.",
+    "start": 637.02,
+    "end": 637.68
+  },
+  {
+    "text": "Time",
+    "start": 638.32,
+    "end": 638.7
+  },
+  {
+    "text": "is",
+    "start": 638.7,
+    "end": 639.0
+  },
+  {
+    "text": "not",
+    "start": 639.0,
+    "end": 639.24
+  },
+  {
+    "text": "just",
+    "start": 639.24,
+    "end": 639.6
+  },
+  {
+    "text": "what",
+    "start": 639.6,
+    "end": 639.86
+  },
+  {
+    "text": "clocks",
+    "start": 639.86,
+    "end": 640.3
+  },
+  {
+    "text": "count.",
+    "start": 640.3,
+    "end": 640.74
+  },
+  {
+    "text": "Time",
+    "start": 641.34,
+    "end": 641.68
+  },
+  {
+    "text": "is",
+    "start": 641.68,
+    "end": 642.08
+  },
+  {
+    "text": "how",
+    "start": 642.08,
+    "end": 642.34
+  },
+  {
+    "text": "information",
+    "start": 642.34,
+    "end": 642.98
+  },
+  {
+    "text": "reaches",
+    "start": 642.98,
+    "end": 643.44
+  },
+  {
+    "text": "you.",
+    "start": 643.44,
+    "end": 643.92
+  },
+  {
+    "text": "And",
+    "start": 644.34,
+    "end": 644.92
+  },
+  {
+    "text": "the",
+    "start": 644.92,
+    "end": 645.14
+  },
+  {
+    "text": "fastest",
+    "start": 645.14,
+    "end": 645.68
+  },
+  {
+    "text": "messenger",
+    "start": 645.68,
+    "end": 646.26
+  },
+  {
+    "text": "in",
+    "start": 646.26,
+    "end": 646.64
+  },
+  {
+    "text": "the",
+    "start": 646.64,
+    "end": 646.78
+  },
+  {
+    "text": "universe",
+    "start": 646.78,
+    "end": 647.22
+  },
+  {
+    "text": "is",
+    "start": 647.22,
+    "end": 648.54
+  },
+  {
+    "text": "light.",
+    "start": 648.54,
+    "end": 649.24
+  },
+  {
+    "text": "So",
+    "start": 649.98,
+    "end": 650.34
+  },
+  {
+    "text": "what",
+    "start": 650.34,
+    "end": 650.64
+  },
+  {
+    "text": "if",
+    "start": 650.64,
+    "end": 650.82
+  },
+  {
+    "text": "you",
+    "start": 650.82,
+    "end": 650.92
+  },
+  {
+    "text": "became",
+    "start": 650.92,
+    "end": 651.32
+  },
+  {
+    "text": "that",
+    "start": 651.32,
+    "end": 651.66
+  },
+  {
+    "text": "messenger?",
+    "start": 651.66,
+    "end": 652.18
+  },
+  {
+    "text": "What",
+    "start": 652.18,
+    "end": 653.12
+  },
+  {
+    "text": "if",
+    "start": 653.12,
+    "end": 653.26
+  },
+  {
+    "text": "you",
+    "start": 653.26,
+    "end": 653.36
+  },
+  {
+    "text": "tried",
+    "start": 653.36,
+    "end": 653.66
+  },
+  {
+    "text": "to",
+    "start": 653.66,
+    "end": 653.82
+  },
+  {
+    "text": "travel",
+    "start": 653.82,
+    "end": 654.28
+  },
+  {
+    "text": "at",
+    "start": 654.28,
+    "end": 654.6
+  },
+  {
+    "text": "the",
+    "start": 654.6,
+    "end": 654.76
+  },
+  {
+    "text": "speed",
+    "start": 654.76,
+    "end": 655.08
+  },
+  {
+    "text": "of",
+    "start": 655.08,
+    "end": 655.28
+  },
+  {
+    "text": "light?",
+    "start": 655.28,
+    "end": 655.54
+  },
+  {
+    "text": "That",
+    "start": 656.38,
+    "end": 656.88
+  },
+  {
+    "text": "is",
+    "start": 656.88,
+    "end": 657.08
+  },
+  {
+    "text": "next.",
+    "start": 657.08,
+    "end": 657.44
+  }
+]

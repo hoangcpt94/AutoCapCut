@@ -87,7 +87,7 @@ Quy trình sản xuất chi tiết: xem `episodes\README.md`.
 | `--draft-name` | auto_capcut_project | Tên draft CapCut |
 | `--draft-root` | tự dò | Thư mục draft CapCut |
 | `--output-dir` | none | Ghi ra đây thay vì thư mục CapCut |
-| `--width/--height` | 1080 / 1920 | Khung hình (mặc định dọc) |
+| `--width/--height` | 1920 / 1080 | Khung hình (mặc định ngang 16:9) |
 | `--fps` | 30 | Khung hình/giây |
 | `--whisper-model` | base | tiny/base/small/medium/large-v3 |
 | `--language` | tự nhận diện | Mã ngôn ngữ vd `en`, `vi` |

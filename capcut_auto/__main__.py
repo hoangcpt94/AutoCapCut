@@ -30,8 +30,8 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--draft-root", default=None, help="Thư mục draft CapCut. Mặc định tự dò.")
     p.add_argument("--output-dir", default=None, help="Ghi draft ra đây thay vì thư mục CapCut (để xem trước).")
 
-    p.add_argument("--width", type=int, default=1080)
-    p.add_argument("--height", type=int, default=1920)
+    p.add_argument("--width", type=int, default=1920)
+    p.add_argument("--height", type=int, default=1080)
     p.add_argument("--fps", type=int, default=30)
 
     p.add_argument("--whisper-model", default="base", help="tiny/base/small/medium/large-v3")

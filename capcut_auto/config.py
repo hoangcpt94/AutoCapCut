@@ -36,10 +36,10 @@ class ProjectConfig:
     output_dir: Optional[str] = None
     """Nếu set, ghi draft ra đây thay vì thư mục CapCut (dùng để xem trước)."""
 
-    width: int = 1080
-    height: int = 1920
+    width: int = 1920
+    height: int = 1080
     fps: int = 30
-    """Khung hình mặc định: dọc 1080x1920 (phù hợp short/reels). Đổi nếu cần."""
+    """Khung hình mặc định: ngang 1920x1080 (16:9). Đổi nếu cần."""
 
     whisper_model: str = "base"
     """Kích thước model Whisper: tiny/base/small/medium/large-v3."""
